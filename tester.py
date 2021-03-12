@@ -2,14 +2,14 @@ import InformationAbstracter as ia
 import ActionAbstracter as aa
 #
 # abstracter = ia.InformationAbstracter()
-k = aa.ActionAbstracter()
-print(k.get_mappable_raise_value(8320))
+# k = aa.ActionAbstracter()
+# print(k.get_mappable_raise_value(8320))
 # a = abstracter.get_tree_details(["5H", "3S"])
 # print(a)
 #
 # brightness_4
 # importing the module
-# import pickle
+import pickle
 #
 # # opening file in write mode (binary)
 # file = open("strategies/trashTrees/trashTree52.txt", "wb")
@@ -18,3 +18,5 @@ print(k.get_mappable_raise_value(8320))
 #
 # # serializing dictionary
 # pickle.dump(my_dict, file)
+with open("strategies/preflop/testTree.txt", "rb") as file:
+    print(pickle.loads(file.read()))
