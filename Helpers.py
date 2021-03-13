@@ -12,10 +12,10 @@ class HelperClass:
 
     def tree_builder(self, valid_actions, hole_card, round_state):
         actionsTree, file_path = self.information_abstracter.get_tree_details(hole_card, round_state["street"])
-        pathMapper = {"preflop" : "strategies/preflop", "flop" : "strategies/flop", "river" : "strategies/river", "turn" : "strategies/turn"}
         if round_state["street"] == "preflop":
             playerIdMap = {}
             for each in round_state["seats"]:
+                print(each)
                 playerIdMap[each["uuid"]] = each["name"]
             for each in round_state["action_histories"].items():
                 # print(each[0])
@@ -29,7 +29,10 @@ class HelperClass:
 
     def updateChildDicts(self, moves, playerIdMap, actionTree):
         playerId = playerIdMap[moves[0]["uuid"]]
-        moveId = moves[0]["action"] + "-" + str(moves[0]["amount"])
+        if moves[0]["action"] == "FOLD":
+            moveId = "FOLD"
+        else:
+            moveId = moves[0]["action"] + "-" + str(moves[0]["amount"])
         if not actionTree.get(playerId):
             actionTree[playerId] = {}
         if moveId in actionTree[playerId]:

@@ -2,13 +2,14 @@ from math import floor
 
 class ActionAbstracter:
     # to be used by the agent while generating trees; need to include pot value into calculating proportionality of raise
-    def get_abstracted_raise_values(self, stack, pot_value, min_raise):
+    def get_abstracted_raise_values(self, min_val, pot_val, max_raise):
         raise_vals = []
-        rounded_stack = floor(stack / 100) * 100
-        print(rounded_stack)
-        while rounded_stack != min_raise:
-            raise_vals.append(rounded_stack)
-            rounded_stack -= 100
+        pot_proportions = [0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.5]
+        for each in pot_proportions:
+            if max_raise >= each * pot_val >= min_val:
+                raise_vals.append(each * pot_val)
+        if max_raise > 0:
+            raise_vals.append(max_raise)
         return raise_vals
 
     # to be used for mapping opponent moves during search

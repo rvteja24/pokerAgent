@@ -18,5 +18,5 @@ import pickle
 #
 # # serializing dictionary
 # pickle.dump(my_dict, file)
-with open("strategies/preflop/testTree.txt", "rb") as file:
+with open("strategies/preflop/trashTrees/trashTreeQ3.txt", "rb") as file:
     print(pickle.loads(file.read()))
