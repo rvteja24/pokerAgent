@@ -17,7 +17,7 @@ class BasicPlayer(BasePokerPlayer):  # Do not forget to make parent class as "Ba
         min_val = 0
         max_val = 0
         actionTuple = []
-        #print(round_state)
+        print(round_state)
         for each in valid_actions:
             if each["action"] == "raise":
                 min_val = each["amount"]["min"]
@@ -27,7 +27,7 @@ class BasicPlayer(BasePokerPlayer):  # Do not forget to make parent class as "Ba
         raise_actions = self.action_abstracter.get_abstracted_raise_values(min_val, round_state["pot"]["main"]["amount"], max_val)
         for each in raise_actions:
             actionTuple.append(("raise", each))
-        chosen_action = valid_actions[1]["action"], valid_actions[1]["amount"]#random.choice(actionTuple)
+        chosen_action = random.choice(actionTuple)#valid_actions[1]["action"], valid_actions[1]["amount"]#
         # valid_actions format => [raise_action_info, call_action_info, fold_action_info]
         return chosen_action  # action returned here is sent to the poker engine
 

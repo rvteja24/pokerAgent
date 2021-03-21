@@ -98,7 +98,7 @@ class HelperClass:
                                                                                         moveId], action_history,
                                                                                     cardsHist)
                         else:
-                            actionTree[playerId][moveId] = [0,{}]
+                            actionTree[playerId][moveId] = [(0,0),{}]
                             actionTree[playerId][moveId][1][moveId] = {}
                             actionTree[playerId][moveId][1][moveId] = self.updateChildDicts(playerIdMap,
                                                                                             actionTree[playerId][
@@ -107,7 +107,7 @@ class HelperClass:
                                                                                             cardsHist)
                     else:
                         actionTree[playerId] = {}
-                        actionTree[playerId][moveId] = [0, {}]
+                        actionTree[playerId][moveId] = [(0,0), {}]
                         actionTree[playerId][moveId][1][moveId] = {}
                         actionTree[playerId][moveId][1][moveId] = self.updateChildDicts(playerIdMap,
                                                                                         actionTree[playerId][
@@ -189,7 +189,7 @@ class HelperClass:
                                         moveId],
                                     action_history, cardsHist, move)
                 else:
-                    actionTree[playerId][move] = [0, {}]
+                    actionTree[playerId][move] = [(0,0), {}]
                     actionTree[playerId][move][1][move] = {}
                     if len(action_history) > 0:
                         actionTree[playerId][move][1][move] = self.traverseAndUpdateAgentMove(
@@ -200,7 +200,7 @@ class HelperClass:
                                 move], action_history, cardsHist, move)
 
             else:
-                print(cardsHist[round], actionTree[playerId])
+                #print(cardsHist[round], actionTree[playerId])
                 key = self.getKey(cardsHist[round], actionTree[playerId])
                 if len(moves)>0 and key != None and moveId in actionTree[playerId][
                     key]:
@@ -223,7 +223,7 @@ class HelperClass:
                         else:
                             if len(action_history) > 0:
                                 actionTree[playerId][key][moveId][1][
-                                    moveId] = self.self.traverseAndUpdateAgentMove(
+                                    moveId] = self.traverseAndUpdateAgentMove(
                                     playerIdMap,
 
                                     actionTree[playerId][
@@ -232,7 +232,7 @@ class HelperClass:
                                     action_history, cardsHist, move)
                 elif key != None and move not in actionTree[playerId][key]:
 
-                    actionTree[playerId][key][move][1] = [0, {}]
+                    actionTree[playerId][key][move][1] = [(0,0), {}]
                     actionTree[playerId][key][move][1][move] = {}
                     if playerId == "p1":
                         del action_history[round][0]
@@ -240,7 +240,7 @@ class HelperClass:
                             del action_history[round]
                         if len(action_history) > 0:
                             actionTree[playerId][key][move][1][
-                                move] = self.self.traverseAndUpdateAgentMove(
+                                move] = self.traverseAndUpdateAgentMove(
 
                                 playerIdMap,
                                 actionTree[
@@ -249,7 +249,7 @@ class HelperClass:
                                 action_history, cardsHist, move)
                     else:
                         if len(action_history) > 0:
-                            actionTree[playerId][key][1][move] = self.self.traverseAndUpdateAgentMove(
+                            actionTree[playerId][key][1][move] = self.traverseAndUpdateAgentMove(
 
                                 playerIdMap,
 
@@ -261,7 +261,7 @@ class HelperClass:
                                 action_history, cardsHist, move)
                 else:
                     actionTree[playerId][cardsHist[round]] = {}
-                    actionTree[playerId][cardsHist[round]][move] = [0, {}]
+                    actionTree[playerId][cardsHist[round]][move] = [(0,0), {}]
                     actionTree[playerId][cardsHist[round]][move][1][move] = {}
                     if playerId == "p1" and round != self.finalRound:
                         del action_history[round][0]
@@ -269,7 +269,7 @@ class HelperClass:
                             del action_history[round]
                         if len(action_history) > 0:
                             actionTree[playerId][cardsHist[round]][move][1][
-                                move] = self.self.traverseAndUpdateAgentMove(
+                                move] = self.traverseAndUpdateAgentMove(
 
                                 playerIdMap,
                                 actionTree[
@@ -278,14 +278,14 @@ class HelperClass:
                                 action_history, cardsHist, move)
                     else:
                         if len(action_history) > 0:
-                            print(action_history)
+                            #print(action_history)
                             if playerId not in actionTree.keys():
                                 actionTree[playerId] = {}
                             key = self.getKey(cardsHist[round], actionTree[playerId])
                             if key not in actionTree[playerId].keys():
                                 actionTree[playerId][cardsHist[round]] = {}
                             if move not in actionTree[playerId][cardsHist[round]].keys():
-                                actionTree[playerId][cardsHist[round]][move] = [0, {}]
+                                actionTree[playerId][cardsHist[round]][move] = [(0,0), {}]
                             if move not in actionTree[playerId][cardsHist[round]][move][1].keys():
                                 actionTree[playerId][cardsHist[round]][move][1][move] = {}
                             if len(moves) > 0:
@@ -347,7 +347,9 @@ class HelperClass:
                     if len(action_history[round]) == 0:
                         del action_history[round]
                     if len(action_history) > 0:
-                        tree[playerId][moveId][0] = tree[playerId][moveId][0] + net_val
+                        count = tree[playerId][moveId][0][0]
+                        val = ((tree[playerId][moveId][0][1] * count) + net_val)/(count+1)
+                        tree[playerId][moveId][0] = (count+1, val)
                         tree[playerId][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move)
                 else:
                     del action_history[round][0]
@@ -355,17 +357,18 @@ class HelperClass:
                         del action_history[round]
                     if len(action_history) > 0:
                         key = self.getKey(cardsHist[round], tree[playerId])
-                        tree[playerId][key][moveId][0] = tree[playerId][key][moveId][0] + net_val
+                        count = tree[playerId][key][moveId][0][0]
+                        val = ((tree[playerId][key][moveId][0][1] * count) + net_val)/(count+1)
+                        tree[playerId][key][moveId][0] = (count+1, val)
                         tree[playerId][key][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][key][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move)
         else:
             if final_round == "preflop":
-                if "terminal_val" in tree["p1"][final_move][1][final_move].keys():
-                    tree["p1"][final_move][1][final_move]["terminal_val"] = tree["p1"][final_move][1][final_move]["terminal_val"] + net_val
-                else:
-                    tree["p1"][final_move][1][final_move]["terminal_val"] = net_val
+                count = tree["p1"][final_move][0][0] + 1
+                tree["p1"][final_move][0] = (count, ((tree["p1"][final_move][0][1] *(count-1) )+ net_val)/count)
+                tree["p1"][final_move][1] ="terminal_node"
             else:
-                if "terminal_val" in tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][1][final_move].keys():
-                    tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][1][final_move]["terminal_val"] = tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][1][final_move]["terminal_val"] + net_val
-                else:
-                    tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][1][final_move]["terminal_val"] = net_val
+                count = tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][0][0] + 1
+                val = ((tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][0][1] * (count-1)) + net_val)/count
+                tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][0] = (count, val)
+                tree["p1"][self.getKey(cardsHist[final_round], tree["p1"])][final_move][1] = "terminal_node"
         return tree

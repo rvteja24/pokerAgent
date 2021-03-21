@@ -14,7 +14,7 @@ agent3 = Agent(name="p3")
 agent4 = Agent(name="p4")
 agent5 = Agent(name="p5")
 agent6 = Agent(name="p6")
-for _ in range(1,100):
+for _ in range(0,1):
     config = setup_config(max_round=1, initial_stack=10000, small_blind_amount=10)
     config.register_player(name="p1", algorithm=agent1)
     # config.register_player(name="p2", algorithm=Agent(name="p2"))
@@ -27,7 +27,7 @@ for _ in range(1,100):
     config.register_player(name="p5", algorithm=agent5)
     config.register_player(name="p6", algorithm=agent6)
     game_result = start_poker(config, verbose=0)
-    print(game_result)
+    #print(game_result)
     agent1.updateResult(game_result)
     agent2.updateResult(game_result)
     agent3.updateResult(game_result)

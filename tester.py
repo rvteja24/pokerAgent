@@ -19,10 +19,11 @@ import pickle
 # # serializing dictionary
 # pickle.dump(my_dict, file)
 
-with open("strategies/preflop/trashTrees/trashTree98p" + "4" +".txt", "rb") as file:
-    print(pickle.loads(file.read()))
+# with open("strategies/preflop/trashTrees/trashTree54p" + "2" +".txt", "rb") as file:
+#     print(pickle.loads(file.read()))
 import re
-
+with open("strategies/preflop/sameSuitTrees/sameSuitTree25p" + "5" +".txt", "rb") as file:
+    print(pickle.loads(file.read()))
 # c = ('5H','3S','2D','3D','8C')
 # #
 # k = {('5H','2D','3D','8C','3S'): "Correct", ('5D','2D','3D','3C','3S'): "incorrect" }

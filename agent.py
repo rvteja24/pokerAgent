@@ -22,6 +22,8 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         self.final_move = ""
     #  we define the logic to make an action through this method. (so this method would be the core of your AI)
     def declare_action(self, valid_actions, hole_card, round_state):
+
+        #print(round_state)
         # valid_actions format => [raise_action_info, call_action_info, fold_action_info]
         self.round_state_rest = copy.deepcopy(round_state)
         self.round_state_agent = copy.deepcopy(round_state)
@@ -47,7 +49,7 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         #     moveId = "CALL"
         # else:
         #     moveId = moves[0]["action"] + "-" + str(moves[0]["amount"])
-        print(action, amount)
+        #print(action, amount)
         return action, amount   # action returned here is sent to the poker engine
 
     def updateResult(self, game_result):
@@ -57,7 +59,7 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
                 final_stack = i["stack"]
         initial_stack = game_result["rule"]["initial_stack"]
         net_val = final_stack - initial_stack
-        print("net val", net_val)
+        #print("net val", net_val)
         self.helper.updateNetVal(self.action_tree, self.final_round, self.cardHist, self.name, self.final_move, net_val, self.file_path)
         #print(self.final_round, game_result)
 
