@@ -17,7 +17,7 @@ class BasicPlayer(BasePokerPlayer):  # Do not forget to make parent class as "Ba
         min_val = 0
         max_val = 0
         actionTuple = []
-        print(round_state)
+        #print(round_state)
         for each in valid_actions:
             if each["action"] == "raise":
                 min_val = each["amount"]["min"]
