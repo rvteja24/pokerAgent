@@ -1,35 +1,43 @@
 import InformationAbstracter as ia
 import ActionAbstracter as aa
-
-abstracter = ia.InformationAbstracter()
+#
+# abstracter = ia.InformationAbstracter()
 k = aa.ActionAbstracter()
-print(k.get_abstracted_raise_values(100,'preflop', 10000, 200))
-print(k.get_abstracted_raise_values(768,'flop', 9030, 5000))
-print(k.get_abstracted_raise_values(575,'turn', 9800, 700))
-print(k.get_abstracted_raise_values(350,'river', 9910, 1100))
+# print(k.get_mappable_raise_value(5000, 330, 'preflop', 8200))
+# print(k.get_abstracted_raise_values(768,'flop', 9030, 5000))
+# print(k.get_abstracted_raise_values(575,'turn', 9800, 700))
+# print(k.get_abstracted_raise_values(350,'river', 9910, 1100))
 # print(tuple((tuple(["a","b","e", "f"]),tuple(["c", "d"]))))
 # a = abstracter.get_tree_details(["5H", "3S"])
 # print(a)
-#
+a = [1,2,3,4,5]
+
+for i in range(20):
+    k = i%6
+    print(a[0-k])
+    print(a[1 - k])
+    print(a[2 - k])
+    print(a[3 - k])
+    print(a[4 - k])
 # brightness_4
 # importing the module
 import pickle
 #
 # # opening file in write mode (binary)
-# file = open("strategies/trashTrees/trashTree52.txt", "wb")
+# file = open("treeDicts/restTreesDict.txt", "wb")
 #
-# my_dict = []
-#
-# # serializing dictionary
+# my_dict = {}
+
+# serializing dictionary
 # pickle.dump(my_dict, file)
 # for i in range(2,3):
 #     with open("strategies/preflop/pairsTrees/pairsTree"+str(i)+"p" + "2" +".txt", "rb") as file:
 #         print(pickle.loads(file.read()))
 # import re
-with open("strategies/preflop/sameSuitTrees/sameSuitTree2Tp" + "3" +".txt", "rb") as file:
-    print(pickle.loads(file.read()))
-
-print(str("apple"))
+# with open("strategies/preflop/restTrees/Tree2Ap" + "1" +".txt", "rb") as file:
+#     print(format(pickle.loads(file.read())))
+#
+# print(str("apple"))
 # c = ('5H','3S','2D','3D','8C')
 # #
 # k = {('5H','2D','3D','8C','3S'): "Correct", ('5D','2D','3D','3C','3S'): "incorrect" }
@@ -124,3 +132,7 @@ from treys import Card as card
 # ]
 # hand = [card.new('8s'), card.new("".join(list('TH')[0] + list('TH')[1].lower()))]
 # print(evaluator.evaluate(hand, board))
+# a ={1:(2,3)}
+#
+# a[1] = (4,5)
+# print(a)

@@ -43,6 +43,6 @@ class HumanPlayer(BasePokerPlayer):
     def _receive_action_from_console(self, valid_actions):
         action = input("Enter action to declare >> ")
         if action == 'fold': amount = 0
-        if action == 'call':  amount = valid_actions[1]['action']
+        if action == 'call':  amount = valid_actions[1]['amount']
         if action == 'raise':  amount = int(input("Enter raise amount >> "))
         return action, amount

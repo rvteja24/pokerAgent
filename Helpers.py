@@ -5,12 +5,13 @@ from math import ceil
 from treys import Card as card
 from treys import Evaluator
 from InformationAbstracter import InformationAbstracter
-
+from ActionAbstracter import ActionAbstracter
 
 class HelperClass:
     # to be used while updating trees after each game during training
     def __init__(self):
         self.information_abstracter = InformationAbstracter()
+        self.action_abstracter = ActionAbstracter()
         self.rotation_dict = {"p1": 0, "p2": 1, "p3": 2, "p4": 3, "p5": 4, "p6": 5}
         self.finalRound = ""
         self.evaluator = Evaluator()
@@ -37,8 +38,12 @@ class HelperClass:
         small_blind = playerIdMap.get(action_history["preflop"][0]["uuid"])
         actionsTree, file_path = self.information_abstracter.get_tree_details(hole_card, "preflop",
                                                                               small_blind)
+        stacks = {}
+        for each in round_state["seats"]:
+            index = round_state["seats"].index(each)
+            stacks[each["uuid"]] = round_state["seats"][index - rotation_value]["stack"]
         pot = 0
-        actionsTree = self.traverseAndUpdateAgentMove(playerIdMap, actionsTree, action_history, cards, move, pot)
+        actionsTree = self.traverseAndUpdateAgentMove(playerIdMap, actionsTree, action_history, cards, move, pot, stacks)
         self.update_tree(actionsTree, file_path)
         return actionsTree, file_path
 
@@ -58,11 +63,15 @@ class HelperClass:
 
         actionsTree, file_path = self.information_abstracter.get_tree_details(hole_card, "preflop",
                                                                               small_blind)
+        stacks = {}
+        for each in round_state["seats"]:
+            index = round_state["seats"].index(each)
+            stacks[each["uuid"]] = round_state["seats"][index - rotation_value]["stack"]
         pot_val = 0
-        actionsTree = self.updateChildDicts(playerIdMap, actionsTree, action_history,  card_history, current_round, pot_val)
+        actionsTree = self.updateChildDicts(playerIdMap, actionsTree, action_history,  card_history, current_round, pot_val, stacks)
         self.update_tree(actionsTree, file_path)
 
-    def updateChildDicts(self, playerIdMap, actionTree, action_history, cardsHist, current_round, pot_val):
+    def updateChildDicts(self, playerIdMap, actionTree, action_history, cardsHist, current_round, pot_val, stacks):
         if action_history:
             round = list(action_history.keys())[0]
             moves = action_history.get(round)
@@ -82,19 +91,20 @@ class HelperClass:
         elif moves[0]["action"] == "SMALLBLIND":
             moveId = "SMALLBLIND"
         else:
-            if moves[0]["amount"]/pot_val <=2:
-                moveId = moves[0]["action"] + "-" + str(moves[0]["amount"]/pot_val)
-            else:
-                moveId = moves[0]["action"] + "-" + "allin"
+            raise_prop = self.action_abstracter.get_mappable_raise_value(moves[0]["amount"], pot_val, round,
+                                                                         stacks[moves[0]["uuid"]])
+            moveId = moves[0]["action"] + "-" + str(raise_prop)
 
         if moves[0]["action"] != "FOLD" and "paid" in moves[0].keys():
             pot_val += moves[0]["paid"]
+            stacks[moves[0]["uuid"]] -= moves[0]["paid"]
         elif moves[0]["action"] == "BIGBLIND" or moves[0]["action"] == "SMALLBLIND":
             pot_val += moves[0]["amount"]
+            stacks[moves[0]["uuid"]] -= moves[0]["amount"]
         if playerId != "p1":
             if not actionTree.get(playerId):
                 actionTree[playerId] = {}
-            if moveId in actionTree[playerId]:
+            if moveId in actionTree[playerId].keys():
                 if current_round == round:
                     actionTree[playerId][moveId][0] += 1
                 del action_history[round][0]
@@ -103,7 +113,7 @@ class HelperClass:
                 if len(action_history) > 0:
                     actionTree[playerId][moveId][1] = self.updateChildDicts(playerIdMap,
                                                                          actionTree[playerId][moveId][1], action_history,
-                                                                         cardsHist,current_round, pot_val)
+                                                                         cardsHist,current_round, pot_val, stacks)
             else:
                 actionTree[playerId][moveId] = [1,{}]
                 del action_history[round][0]
@@ -112,7 +122,7 @@ class HelperClass:
                 if len(action_history) > 0:
                     actionTree[playerId][moveId][1] = self.updateChildDicts(playerIdMap,
                                                                          actionTree[playerId][moveId][1], action_history,
-                                                                         cardsHist,current_round, pot_val)
+                                                                         cardsHist,current_round, pot_val, stacks)
         else:
             #print(playerId, moveId, round, actionTree, action_history)
             if round == "preflop":
@@ -121,28 +131,25 @@ class HelperClass:
                     del action_history[round]
                 if len(action_history) > 0:
                     if playerId in actionTree:
-                        if moveId in actionTree[playerId]:
+                        if moveId in actionTree[playerId].keys():
                             actionTree[playerId][moveId][1][moveId] = self.updateChildDicts(playerIdMap,
-                                                                                    actionTree[playerId][moveId][1][
-                                                                                        moveId], action_history,
-                                                                                    cardsHist,current_round, pot_val)
+                                                                                    actionTree[playerId][moveId][1][moveId], action_history,
+                                                                                    cardsHist,current_round, pot_val, stacks)
                         else:
                             actionTree[playerId][moveId] = [(0,0),{}]
                             actionTree[playerId][moveId][1][moveId] = {}
                             actionTree[playerId][moveId][1][moveId] = self.updateChildDicts(playerIdMap,
                                                                                             actionTree[playerId][
-                                                                                                moveId][1][
-                                                                                                moveId], action_history,
-                                                                                            cardsHist,current_round, pot_val)
+                                                                                                moveId][1][moveId], action_history,
+                                                                                            cardsHist,current_round, pot_val, stacks)
                     else:
                         actionTree[playerId] = {}
                         actionTree[playerId][moveId] = [(0,0), {}]
                         actionTree[playerId][moveId][1][moveId] = {}
                         actionTree[playerId][moveId][1][moveId] = self.updateChildDicts(playerIdMap,
-                                                                                        actionTree[playerId][
-                                                                                            moveId][1][
-                                                                                            moveId], action_history,
-                                                                                        cardsHist,current_round, pot_val)
+                                                                                        actionTree[playerId][moveId][1][moveId]
+                                                                                            , action_history,
+                                                                                        cardsHist,current_round, pot_val, stacks)
             else:
                 key = self.getKey(cardsHist[round])
                 del action_history[round][0]
@@ -155,10 +162,10 @@ class HelperClass:
                                                                                                           moveId][1][
                                                                                                           moveId],
                                                                                                       action_history,
-                                                                                                      cardsHist,current_round, pot_val)
+                                                                                                      cardsHist,current_round, pot_val, stacks)
         return actionTree
 
-    def traverseAndUpdateAgentMove(self, playerIdMap, actionTree, action_history, cardsHist, move, pot_val):
+    def traverseAndUpdateAgentMove(self, playerIdMap, actionTree, action_history, cardsHist, move, pot_val, stacks):
         #print("inside agent", action_history)
         if action_history:
             round = list(action_history.keys())[0]
@@ -177,13 +184,13 @@ class HelperClass:
             elif moves[0]["action"] == "SMALLBLIND":
                 moveId = "SMALLBLIND"
             else:
-                if moves[0]["amount"] / pot_val <= 2:
-                    moveId = moves[0]["action"] + "-" + str(moves[0]["amount"] / pot_val)
-                else:
-                    moveId = moves[0]["action"] + "-" + "allin"
+                raise_prop = self.action_abstracter.get_mappable_raise_value(moves[0]["amount"], pot_val, round, stacks[moves[0]["uuid"]])
+                moveId = moves[0]["action"] + "-" + str(raise_prop)
             if moves[0]["action"] != "FOLD" and "paid" in moves[0].keys():
+                stacks[moves[0]["uuid"]] -= moves[0]["paid"]
                 pot_val += moves[0]["paid"]
             elif moves[0]["action"] == "BIGBLIND" or moves[0]["action"] == "SMALLBLIND":
+                stacks[moves[0]["uuid"]] -= moves[0]["amount"]
                 pot_val += moves[0]["amount"]
         else:
             # moveSplit = move.split("-")
@@ -199,7 +206,7 @@ class HelperClass:
                 del action_history[round]
             actionTree[playerId][moveId][1] = self.traverseAndUpdateAgentMove(playerIdMap,
                                                                                actionTree[playerId][moveId][1],
-                                                                               action_history, cardsHist, move, pot_val)
+                                                                                action_history, cardsHist, move, pot_val, stacks)
         else:
             if "CALL" in move or "FOLD" in move:
                 move = move[:4]
@@ -207,31 +214,31 @@ class HelperClass:
                 actionTree[playerId] = {}
             if round == "preflop":
                 if len(moves) > 0 and moveId in actionTree[playerId].keys():
-                    if moveId in actionTree[playerId][moveId][1]:
-                        if playerId == "p1":
-                            del action_history[round][0]
-                            if len(action_history[round]) == 0:
-                                del action_history[round]
-                            if len(action_history) > 0:
-                                actionTree[playerId][moveId][1][moveId] = self.traverseAndUpdateAgentMove(
-                                    playerIdMap,
-                                    actionTree[
-                                        playerId][
-                                        moveId][
-                                        1][
-                                        moveId],
-                                    action_history, cardsHist, move, pot_val)
-                        else:
-                            if len(action_history) > 0:
-                                actionTree[playerId][moveId][1][moveId] = self.traverseAndUpdateAgentMove(
-                                    playerIdMap,
-                                    actionTree[
-                                        playerId][
-                                        moveId][
-                                        1][
-                                        moveId],
-                                    action_history, cardsHist, move, pot_val)
-                else:
+                    # if moveId in actionTree[playerId][moveId][1]:
+                    # if playerId == "p1":
+                    del action_history[round][0]
+                    if len(action_history[round]) == 0:
+                        del action_history[round]
+                    if len(action_history) > 0:
+                        actionTree[playerId][moveId][1][moveId] = self.traverseAndUpdateAgentMove(
+                            playerIdMap,
+                            actionTree[
+                                playerId][
+                                moveId][
+                                1][
+                                moveId],
+                            action_history, cardsHist, move, pot_val, stacks)
+                    # else:
+                    #     if len(action_history) > 0:
+                    #         actionTree[playerId][moveId][1][moveId] = self.traverseAndUpdateAgentMove(
+                    #             playerIdMap,
+                    #             actionTree[
+                    #                 playerId][
+                    #                 moveId][
+                    #                 1][
+                    #                 moveId],
+                    #             action_history, cardsHist, move, pot_val)
+                elif len(moves) == 0 and move not in actionTree[playerId].keys():
                     actionTree[playerId][move] = [(0,0), {}]
                     actionTree[playerId][move][1][move] = {}
                     if len(action_history) > 0:
@@ -240,7 +247,7 @@ class HelperClass:
                             actionTree[
                                 playerId][
                                 move][1][
-                                move], action_history, cardsHist, move, pot_val)
+                                move], action_history, cardsHist, move, pot_val, stacks)
 
             else:
                 #print(cardsHist[round], actionTree[playerId])
@@ -262,21 +269,21 @@ class HelperClass:
                                         key][moveId][
                                         1][
                                         moveId],
-                                    action_history, cardsHist, move, pot_val)
-                        else:
-                            if len(action_history) > 0:
-                                actionTree[playerId][key][moveId][1][
-                                    moveId] = self.traverseAndUpdateAgentMove(
-                                    playerIdMap,
-
-                                    actionTree[playerId][
-                                        key][moveId][1][
-                                        moveId],
-                                    action_history, cardsHist, move, pot_val)
+                                    action_history, cardsHist, move, pot_val, stacks)
+                        # else:
+                        #     if len(action_history) > 0:
+                        #         actionTree[playerId][key][moveId][1][
+                        #             moveId] = self.traverseAndUpdateAgentMove(
+                        #             playerIdMap,
+                        #
+                        #             actionTree[playerId][
+                        #                 key][moveId][1][
+                        #                 moveId],
+                        #             action_history, cardsHist, move, pot_val)
                 elif key in actionTree[playerId] and move not in actionTree[playerId][key]:
-                    actionTree[playerId][key][move][1] = [(0,0), {}]
+                    actionTree[playerId][key][move] = [(0,0), {}]
                     actionTree[playerId][key][move][1][move] = {}
-                    if playerId == "p1":
+                    if playerId == "p1" and len(action_history) > 0 and len(action_history[round]) > 0:
                         del action_history[round][0]
                         if len(action_history[round]) == 0:
                             del action_history[round]
@@ -288,20 +295,20 @@ class HelperClass:
                                 actionTree[
                                     playerId][key][move][1][move]
                                 ,
-                                action_history, cardsHist, move, pot_val)
-                    else:
-                        if len(action_history) > 0:
-                            actionTree[playerId][key][1][move] = self.traverseAndUpdateAgentMove(
-
-                                playerIdMap,
-
-                                actionTree[
-                                    playerId][
-                                    key][
-                                    1][
-                                    move],
-                                action_history, cardsHist, move, pot_val)
-                else:
+                                action_history, cardsHist, move, pot_val, stacks)
+                    # else:
+                    #     if len(action_history) > 0:
+                    #         actionTree[playerId][key][1][move] = self.traverseAndUpdateAgentMove(
+                    #
+                    #             playerIdMap,
+                    #
+                    #             actionTree[
+                    #                 playerId][
+                    #                 key][
+                    #                 1][
+                    #                 move],
+                    #             action_history, cardsHist, move, pot_val)
+                elif key not in actionTree[playerId].keys():
                     actionTree[playerId][key] = {}
                     actionTree[playerId][key][move] = [(0,0), {}]
                     actionTree[playerId][key][move][1][move] = {}
@@ -317,7 +324,7 @@ class HelperClass:
                                 actionTree[
                                     playerId][key][move][1][move]
                                 ,
-                                action_history, cardsHist, move, pot_val)
+                                action_history, cardsHist, move, pot_val, stacks)
                     else:
                         if len(action_history) > 0:
                             #print(action_history)
@@ -339,7 +346,7 @@ class HelperClass:
                                     playerId][key][move][
                                     1][
                                     move],
-                                action_history, cardsHist, move, pot_val)
+                                action_history, cardsHist, move, pot_val, stacks)
 
         return actionTree
 
@@ -351,7 +358,7 @@ class HelperClass:
         for e in cards[1]:
             hand.append(card.new(self.cardMap.get(e)))
         eval = self.evaluator.evaluate(hand, board)
-        return ceil(eval/40)
+        return str(ceil(eval/40))
 
     def updateNetVal(self, actions_tree, round_state, cardsHist, name, final_move, net_val, file):
         action_history = round_state["action_histories"]
@@ -365,11 +372,15 @@ class HelperClass:
         for each in round_state["seats"]:
             index = round_state["seats"].index(each)
             playerIdMap[each["uuid"]] = round_state["seats"][index - rotation_value]["name"]
+        stacks = {}
+        for each in round_state["seats"]:
+            index = round_state["seats"].index(each)
+            stacks[each["uuid"]] = round_state["seats"][index - rotation_value]["stack"]
         pot_value = 0
-        actions_tree = self.traverseAndUpdateVal(actions_tree, action_history, playerIdMap, cardsHist, net_val, final_round, final_move, pot_value)
+        actions_tree = self.traverseAndUpdateVal(actions_tree, action_history, playerIdMap, cardsHist, net_val, final_round, final_move, pot_value, stacks)
         self.update_tree(actions_tree, file)
 
-    def traverseAndUpdateVal(self, tree, action_history, playerIdMap, cardsHist, net_val, final_round, final_move, pot_value):
+    def traverseAndUpdateVal(self, tree, action_history, playerIdMap, cardsHist, net_val, final_round, final_move, pot_value, stacks):
         if len(action_history) > 0 and len(action_history.get(list(action_history.keys())[0], [])) > 0:
             round = list(action_history.keys())[0]
             moves = action_history.get(round)
@@ -386,19 +397,20 @@ class HelperClass:
             elif moves[0]["action"] == "SMALLBLIND":
                 moveId = "SMALLBLIND"
             else:
-                if moves[0]["amount"] / pot_value <= 2:
-                    moveId = moves[0]["action"] + "-" + str(moves[0]["amount"] / pot_value)
-                else:
-                    moveId = moves[0]["action"] + "-" + "allin"
+                raise_prop = self.action_abstracter.get_mappable_raise_value(moves[0]["amount"], pot_value, round,
+                                                                             stacks[moves[0]["uuid"]])
+                moveId = moves[0]["action"] + "-" + str(raise_prop)
             if moves[0]["action"] != "FOLD" and "paid" in moves[0].keys():
+                stacks[moves[0]["uuid"]] -= moves[0]["paid"]
                 pot_value += moves[0]["paid"]
             elif moves[0]["action"] == "BIGBLIND" or moves[0]["action"] == "SMALLBLIND":
+                stacks[moves[0]["uuid"]] -= moves[0]["amount"]
                 pot_value += moves[0]["amount"]
             if playerId != "p1":
                 del action_history[round][0]
                 if len(action_history[round]) == 0:
                     del action_history[round]
-                tree[playerId][moveId][1] = self.traverseAndUpdateVal(tree[playerId][moveId][1],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value)
+                tree[playerId][moveId][1] = self.traverseAndUpdateVal(tree[playerId][moveId][1],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value, stacks)
             else:
                 if round == "preflop":
                     count = tree[playerId][moveId][0][0]
@@ -408,7 +420,7 @@ class HelperClass:
                     if len(action_history[round]) == 0:
                         del action_history[round]
                     if len(action_history) > 0:
-                        tree[playerId][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value)
+                        tree[playerId][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value, stacks)
                 else:
                     key = self.getKey(cardsHist[round])
                     count = tree[playerId][key][moveId][0][0]
@@ -418,7 +430,7 @@ class HelperClass:
                     if len(action_history[round]) == 0:
                         del action_history[round]
                     if len(action_history) > 0:
-                        tree[playerId][key][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][key][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value)
+                        tree[playerId][key][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][key][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value, stacks)
         else:
             if "CALL" in final_move or "FOLD" in final_move:
                 final_move = final_move[:4]
@@ -431,13 +443,13 @@ class HelperClass:
             if final_round == "preflop":
                 count = tree["p1"][final_move][0][0] + 1
                 tree["p1"][final_move][0] = (count, ((tree["p1"][final_move][0][1] *(count-1) )+ net_val)/count)
-                tree["p1"][final_move][1] = "terminal_node"
+                # tree["p1"][final_move][1] = "terminal_node"
             else:
                 key = self.getKey(cardsHist[final_round])
                 count = tree["p1"][key][final_move][0][0] + 1
                 val = ((tree["p1"][key][final_move][0][1] * (count-1)) + net_val)/count
                 tree["p1"][key][final_move][0] = (count, val)
-                tree["p1"][key][final_move][1] = "terminal_node"
+                # tree["p1"][key][final_move][1] = "terminal_node"
         return tree
 
     def traverseAndReturnExploredActions(self, round_state, name, hole_card, cardsHist):
@@ -453,12 +465,17 @@ class HelperClass:
             playerIdMap[each["uuid"]] = round_state["seats"][index - rotation_value]["name"]
         small_blind = playerIdMap.get(action_history["preflop"][0]["uuid"])
 
+        stacks = {}
+        for each in round_state["seats"]:
+            index = round_state["seats"].index(each)
+            stacks[each["uuid"]] = round_state["seats"][index - rotation_value]["stack"]
+
         actionsTree, file_path = self.information_abstracter.get_tree_details(hole_card, "preflop",
                                                                               small_blind)
         pots = 0
-        return self.traverser(actionsTree, action_history, playerIdMap, cardsHist, pots)
+        return self.traverser(actionsTree, action_history, playerIdMap, cardsHist, pots, stacks)
 
-    def traverser(self, tree, action_history, playerIdMap, cardsHist, pots):
+    def traverser(self, tree, action_history, playerIdMap, cardsHist, pots, stacks):
         if len(action_history) > 0 and len(action_history.get(list(action_history.keys())[0], [])) > 0:
             round = list(action_history.keys())[0]
             moves = action_history.get(round)
@@ -475,33 +492,33 @@ class HelperClass:
             elif moves[0]["action"] == "SMALLBLIND":
                 moveId = "SMALLBLIND"
             else:
-                if moves[0]["amount"] / pots <= 2:
-                    moveId = moves[0]["action"] + "-" + str(moves[0]["amount"] / pots)
-                else:
-                    moveId = moves[0]["action"] + "-" + "allin"
+                raise_prop = self.action_abstracter.get_mappable_raise_value(moves[0]["amount"], pots, round, stacks[moves[0]["uuid"]])
+                moveId = moves[0]["action"] + "-" + str(raise_prop)
             if moves[0]["action"] != "FOLD" and "paid" in moves[0].keys():
+                stacks[moves[0]["uuid"]] -= moves[0]["paid"]
                 pots += moves[0]["paid"]
             elif moves[0]["action"] == "BIGBLIND" or moves[0]["action"] == "SMALLBLIND":
+                stacks[moves[0]["uuid"]] -= moves[0]["amount"]
                 pots += moves[0]["amount"]
             if playerId != "p1":
                 del action_history[round][0]
                 if len(action_history[round]) == 0:
                     del action_history[round]
-                tree = self.traverser(tree[playerId][moveId][1],action_history,playerIdMap,cardsHist, pots)
+                tree = self.traverser(tree[playerId][moveId][1],action_history,playerIdMap,cardsHist, pots, stacks)
             else:
                 if round == "preflop":
                     del action_history[round][0]
                     if len(action_history[round]) == 0:
                         del action_history[round]
                     if len(action_history) > 0:
-                        tree = self.traverser(tree[playerId][moveId][1][moveId],action_history,playerIdMap,cardsHist, pots)
+                        tree = self.traverser(tree[playerId][moveId][1][moveId],action_history,playerIdMap,cardsHist, pots, stacks)
                 else:
                     key = self.getKey(cardsHist[round])
                     del action_history[round][0]
                     if len(action_history[round]) == 0:
                         del action_history[round]
                     if len(action_history) > 0:
-                        tree = self.traverser(tree[playerId][key][moveId][1][moveId], action_history,playerIdMap,cardsHist, pots)
+                        tree = self.traverser(tree[playerId][key][moveId][1][moveId], action_history,playerIdMap,cardsHist, pots, stacks)
         else:
             return tree
         return tree

@@ -12,7 +12,7 @@ from pypokerengine.players import BasePokerPlayer
 from ActionAbstracter import ActionAbstracter
 from Helpers import HelperClass
 import copy
-class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePokerPlayer"
+class Agent(BasePokerPlayer):
     def __init__(self, name="p1"):
         self.name = name
         self.tree = {}
@@ -28,8 +28,9 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         self.action_abstracter = ActionAbstracter()
     #  we define the logic to make an action through this method. (so this method would be the core of your AI)
     def declare_action(self, valid_actions, hole_card, round_state):
-        action, amount = self.train(valid_actions, hole_card, round_state)
-        #action, amount = self.test(valid_actions, hole_card, round_state)
+        #action, amount = self.train(valid_actions, hole_card, round_state)
+        print(self.name, "-----" ,hole_card)
+        action, amount = self.test(valid_actions, hole_card, round_state)
         return action, amount
 
     def test(self, valid_actions, hole_card, round_state):
@@ -54,25 +55,55 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
             actionTuple[("raise", each)] = (0, 0)
         try:
             explored_actions = self.helper.traverseAndReturnExploredActions(self.round_state_eval, self.name,
-                                                                        hole_card, self.cardHist)
+                                                                     hole_card, self.cardHist)
+
+
+            if round_state["street"] == "preflop":
+                explored_actions = explored_actions["p1"]
+            else:
+                key = self.helper.getKey(self.cardHist[round_state["street"]])
+                explored_actions = explored_actions["p1"][key]
         except:
-            explored_actions = None
+            explored_actions = {}
         explored_actions_tuple = []
-        if len(explored_actions) > 0:
-            for each in explored_actions["p1"].keys():
+        if explored_actions and len(explored_actions) > 0:
+            #print(explored_actions)
+            for each in explored_actions.keys():
                 expl = each.split("-")
                 act = expl[0].lower()
-                val = float(expl[-1]) if len(expl) == 2 else 0
-                explored_actions_tuple.append(((act, val), (explored_actions["p1"][each][0])))
+                if len(expl) == 2 and expl[-1] != "allin":
+                    val = float(expl[-1])
+                elif len(expl) == 2 and expl[-1] == "allin" :
+                    val = expl[-1]
+                else:
+                    val = 0
+                try:
+                    explored_actions_tuple.append(((act, val), (explored_actions[each][0])))
+                except:
+                    print("Error in retrieving actions: ", explored_actions)
+
+        stack_val = 0
+        for each in round_state["seats"]:
+            if each["name"] == self.name:
+                stack_val = each["stack"]
+                break
+
         for each in explored_actions_tuple:
             for e in actionTuple.items():
                 if e[0][0] == each[0][0] and each[0][0] != "raise":
                     actionTuple[e[0]] = each[1]
                 elif e[0] == each[0] and each[0][0] == "raise":
                     actionTuple[each[0]] = each[1]
+                elif each[0][0] == "call" and each[0][1] > stack_val:
+                    del explored_actions_tuple[each]
         best_move = self.action_picker(actionTuple, c = 0.0001)
-        action, amount = best_move[0], best_move[1] * round_state["pot"]["main"]["amount"] if best_move[
-                                                                                                  1] != "allin" else max_val
+        best_val = best_move[1]
+        if best_move[0] == "raise":
+            if best_move[1] == "allin":
+                best_val = max_val
+            else:
+                best_val = best_move[1] * round_state["pot"]["main"]["amount"]
+        action, amount = best_move[0], best_val
         return action, amount
 
     def train (self, valid_actions, hole_card, round_state):
@@ -105,27 +136,51 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         # todo : come up with the logic based on how options are selected ad explored in MCCFR, for this to get all the raise actions possible we can use get abstracted raise values function present in action abstraction.
         # to get actions for a specific move and their values need to write a helper function to traverse and return the already present moves and their regret values.
         # convert raise values as proportion of pot values, so moves can be chosen based on pot value.
-        explored_actions = self.helper.traverseAndReturnExploredActions(self.round_state_traversal, self.name,
-                                                                        hole_card, self.cardHist)
+        try:
+            explored_actions = self.helper.traverseAndReturnExploredActions(self.round_state_traversal, self.name,
+                                                                     hole_card, self.cardHist)
+            if round_state["street"] == "preflop":
+                explored_actions = explored_actions["p1"]
+            else:
+                key = self.helper.getKey(self.cardHist[round_state["street"]])
+                explored_actions = explored_actions["p1"][key]
+        except:
+            explored_actions = {}
         explored_actions_tuple = []
-        if len(explored_actions) > 0:
+        if explored_actions and len(explored_actions) > 0:
             #print(explored_actions)
-            for each in explored_actions["p1"].keys():
-                #print(each)
+            for each in explored_actions.keys():
                 expl = each.split("-")
                 act = expl[0].lower()
-                val = float(expl[-1]) if len(expl) == 2 else 0
-                print(each, expl, act)
-                explored_actions_tuple.append(((act, val), (explored_actions["p1"][each][0])))
+                if len(expl) == 2 and expl[-1] != "allin":
+                    val = float(expl[-1])
+                elif len(expl) == 2 and expl[-1] == "allin" :
+                    val = expl[-1]
+                else:
+                    val = 0
+                try:
+                    explored_actions_tuple.append(((act, val), (explored_actions[each][0])))
+                except:
+                    print("Error in retrieving actions: ", explored_actions)
         #print(explored_actions_tuple)
+        stack_val = 0
+        for each in round_state["seats"]:
+            if each["name"] == self.name:
+                stack_val = each["stack"]
+                break
         for each in explored_actions_tuple:
             for e in actionTuple.items():
                 #print(each)
                 if e[0][0] == each[0][0] and each[0][0] != "raise":
                     actionTuple[e[0]] = each[1]
+                    break
                 elif e[0] == each[0] and each[0][0] == "raise":
-                    print(e[0], each[0], each[1], e[1])
+                    #print(e[0], each[0], each[1], e[1])
                     actionTuple[each[0]] = each[1]
+                    break
+                # add the condition to avoid call when no stack enough for it
+                elif each[0][0] == "call" and each[0][1] > stack_val:
+                    del explored_actions_tuple[each]
         # best_move = random.choice(list(filter(lambda x: x[1][0] == 0, actionTuple.items())))[0]
         best_move = self.action_picker(actionTuple, c = 100000)
 
@@ -138,7 +193,13 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         self.action_tree, self.file_path = self.helper.agentTreeUpdater(moveId, hole_card, self.round_state_agent,
                                                                         self.name, self.cardHist)
         self.final_move = moveId
-        action, amount = best_move[0], best_move[1] * round_state["pot"]["main"]["amount"] if best_move[1] != "allin" else max_val
+        best_val = best_move[1]
+        if best_move[0] == "raise":
+            if best_move[1] == "allin":
+                best_val = max_val
+            else:
+                best_val = best_move[1] * round_state["pot"]["main"]["amount"]
+        action, amount = best_move[0], best_val
         return action, amount  # action returned here is sent to the poker engine
 
 
@@ -147,6 +208,7 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         for i in game_result["players"]:
             if i["name"] == self.name:
                 final_stack = i["stack"]
+                break
         initial_stack = game_result["rule"]["initial_stack"]
         net_val = final_stack - initial_stack
         #print("net val", net_val, self.final_move, self.final_round, self.name)
@@ -171,8 +233,10 @@ class Agent(BasePokerPlayer):  # Do not forget to make parent class as "BasePoke
         rewards = np.array([x[1][1] for x in actionTuple.items()])
         total_explorations = sum([x[1][0] for x in actionTuple.items()])
         exploration_value = np.array([c*((math.log(total_explorations)/x[1][0])**0.5) if x[1][0] > 0 else math.inf for x in actionTuple.items()])
+
+        #print(rewards, exploration_value)
         selected_index = np.argmax(rewards + exploration_value)
-        #print(actionTuple,exploration_value+rewards)
+        #print(actionTuple,list(actionTuple.keys())[selected_index])
         return list(actionTuple.keys())[selected_index]
 
 
