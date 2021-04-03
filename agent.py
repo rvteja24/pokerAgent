@@ -28,9 +28,9 @@ class Agent(BasePokerPlayer):
         self.action_abstracter = ActionAbstracter()
     #  we define the logic to make an action through this method. (so this method would be the core of your AI)
     def declare_action(self, valid_actions, hole_card, round_state):
-        #action, amount = self.train(valid_actions, hole_card, round_state)
-        print(self.name, "-----" ,hole_card)
-        action, amount = self.test(valid_actions, hole_card, round_state)
+        action, amount = self.train(valid_actions, hole_card, round_state)
+        # print(self.name, "-----" ,round_state)
+        #action, amount = self.test(valid_actions, hole_card, round_state)
         return action, amount
 
     def test(self, valid_actions, hole_card, round_state):
@@ -107,6 +107,7 @@ class Agent(BasePokerPlayer):
         return action, amount
 
     def train (self, valid_actions, hole_card, round_state):
+        self.hole_card = hole_card
         min_val = 0
         max_val = 0
         actionTuple = {}
@@ -132,7 +133,7 @@ class Agent(BasePokerPlayer):
         while len(self.community_cards):
             self.cardHist[round_state["street"]] = tuple((tuple(self.community_cards), tuple(hole_card)))
             self.community_cards = []
-        self.helper.tree_builder(self.name, self.cardHist, hole_card, self.round_state_rest)
+        #self.helper.tree_builder(self.name, self.cardHist, hole_card, self.round_state_rest)
         # todo : come up with the logic based on how options are selected ad explored in MCCFR, for this to get all the raise actions possible we can use get abstracted raise values function present in action abstraction.
         # to get actions for a specific move and their values need to write a helper function to traverse and return the already present moves and their regret values.
         # convert raise values as proportion of pot values, so moves can be chosen based on pot value.
@@ -182,7 +183,8 @@ class Agent(BasePokerPlayer):
                 elif each[0][0] == "call" and each[0][1] > stack_val:
                     del explored_actions_tuple[each]
         # best_move = random.choice(list(filter(lambda x: x[1][0] == 0, actionTuple.items())))[0]
-        best_move = self.action_picker(actionTuple, c = 100000)
+        # print(actionTuple)
+        best_move = self.action_picker(actionTuple, c = 10000)
 
         if best_move[0].upper() == "FOLD":
             moveId = "FOLD-" + str(best_move[1])
@@ -213,7 +215,7 @@ class Agent(BasePokerPlayer):
         net_val = final_stack - initial_stack
         #print("net val", net_val, self.final_move, self.final_round, self.name)
         if len(self.final_round) > 0 :
-            self.helper.updateNetVal(self.action_tree, self.final_round, self.cardHist, self.name, self.final_move, net_val, self.file_path)
+            self.helper.updateNetVal(self.hole_card, self.final_round, self.cardHist, self.name, self.final_move, net_val)
         self.reset()
 
     def reset(self):
@@ -235,7 +237,8 @@ class Agent(BasePokerPlayer):
         exploration_value = np.array([c*((math.log(total_explorations)/x[1][0])**0.5) if x[1][0] > 0 else math.inf for x in actionTuple.items()])
 
         #print(rewards, exploration_value)
-        selected_index = np.argmax(rewards + exploration_value)
+        sum_arr = rewards + exploration_value
+        selected_index = np.random.choice(np.flatnonzero(sum_arr == sum_arr.max()))
         #print(actionTuple,list(actionTuple.keys())[selected_index])
         return list(actionTuple.keys())[selected_index]
 

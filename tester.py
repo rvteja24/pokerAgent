@@ -10,15 +10,15 @@ k = aa.ActionAbstracter()
 # print(tuple((tuple(["a","b","e", "f"]),tuple(["c", "d"]))))
 # a = abstracter.get_tree_details(["5H", "3S"])
 # print(a)
-a = [1,2,3,4,5]
-
-for i in range(20):
-    k = i%6
-    print(a[0-k])
-    print(a[1 - k])
-    print(a[2 - k])
-    print(a[3 - k])
-    print(a[4 - k])
+# a = [1,2,3,4,5]
+#
+# for i in range(20):
+#     k = i%6
+#     print(a[0-k])
+#     print(a[1 - k])
+#     print(a[2 - k])
+#     print(a[3 - k])
+#     print(a[4 - k])
 # brightness_4
 # importing the module
 import pickle
@@ -34,9 +34,19 @@ import pickle
 #     with open("strategies/preflop/pairsTrees/pairsTree"+str(i)+"p" + "2" +".txt", "rb") as file:
 #         print(pickle.loads(file.read()))
 # import re
-# with open("strategies/preflop/restTrees/Tree2Ap" + "1" +".txt", "rb") as file:
-#     print(format(pickle.loads(file.read())))
+with open("strategies/preflop/restTrees/TreeAAp" + "3" +".txt", "rb") as file:
+    a = (pickle.loads(file.read()))
+    print(a)
 #
+# import os
+# trees = []
+# a = os.listdir("C:\\Users\\rvtej\\Documents\\Spring 2021\\FAI\\pokerAgent\\strategies\\preflop\\restTrees")
+# for each in a:
+#     if each[3:6] not in trees:
+#         trees.append(each[3:6])
+# print(trees)
+# with open("treeDicts/restTreesDict.txt", "rb") as file:
+#     print(format(pickle.loads(file.read())))
 # print(str("apple"))
 # c = ('5H','3S','2D','3D','8C')
 # #
@@ -82,9 +92,9 @@ from treys import Card as card
 # #
 # print(cards1)
 # cardMapDict = {}
-# for i, carda in enumerate(cards1):
-#     cardMapDict[carda] = cards[i]
-# with open("cardMap.dict", 'wb') as file:
+# # # for i, carda in enumerate(cards1):
+# # #     cardMapDict[carda] = cards[i]
+# with open("treeDicts/TreesDict.txt", 'wb') as file:
 #     file.write(pickle.dumps(cardMapDict))
 #
 # tree = {}
