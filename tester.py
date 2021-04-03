@@ -34,7 +34,7 @@ import pickle
 #     with open("strategies/preflop/pairsTrees/pairsTree"+str(i)+"p" + "2" +".txt", "rb") as file:
 #         print(pickle.loads(file.read()))
 # import re
-with open("strategies/preflop/restTrees/TreeAAp" + "3" +".txt", "rb") as file:
+with open("strategies/preflop/restTrees/TreeJAp" + "3" +".txt", "rb") as file:
     a = (pickle.loads(file.read()))
     print(a)
 #
