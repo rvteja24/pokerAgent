@@ -1,0 +1,9000 @@
+Game 0: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 55840.0
+Rival Agentp5: 0
+SAgep6: 4159.296875
+Winner is: p4
+
+Game 1: 
+SAgep6: 0
+Winner SAgep1: 59998.0
+Rival Agentp2: 0
+SAgep3: 0.0
+Rival Agentp4: 0
+SAgep5: 0.0
+Winner is: p1
+
+Game 2: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 3: 
+SAgep4: 10285.25
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 49713.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 4: 
+SAgep3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 5: 
+SAgep1: 0
+SAgep2: 0.0
+Winner Rival Agentp3: 29179.0
+SAgep4: 28954.0
+Rival Agentp5: 0
+SAgep6: 1860.3125
+Winner is: p3
+
+Game 6: 
+Winner SAgep6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 7: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 8: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 9: 
+Winner SAgep3: 53314.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 6685.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 10: 
+Winner SAgep1: 59997.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 11: 
+SAgep6: 0
+SAgep1: 10015.0
+Rival Agentp2: 0
+Winner SAgep3: 49984.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 12: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000
+SAgep4: 0
+Winner is: p3
+
+Game 13: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 14: 
+SAgep3: 0
+Winner SAgep4: 59970.0
+Rival Agentp5: 0.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 20.0
+Winner is: p4
+
+Game 15: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 16: 
+Winner SAgep6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0.0
+SAgep5: 0
+Winner is: p6
+
+Game 17: 
+SAgep5: 0
+Winner SAgep6: 39805.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 20195.0
+SAgep4: 0
+Winner is: p6
+
+Game 18: 
+Winner SAgep4: 59999.5
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 19: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p5
+
+Game 20: 
+SAgep1: 10235.0
+Winner SAgep2: 39370.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 10394.0
+Winner is: p2
+
+Game 21: 
+Winner SAgep6: 33256.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 26742.0
+Winner is: p6
+
+Game 22: 
+Winner SAgep5: 59999.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 23: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 24: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Winner is: p1
+
+Game 25: 
+SAgep1: 19201.8359375
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 40797.359375
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 26: 
+SAgep6: 0
+SAgep1: 0.0
+Rival Agentp2: 0.0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 59998.0
+Winner is: p5
+
+Game 27: 
+SAgep5: 0
+SAgep6: 0.0
+Winner Rival Agentp1: 59999.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 28: 
+SAgep4: 0
+SAgep5: 20256.875
+Rival Agentp6: 0
+Winner SAgep1: 39741.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 29: 
+Winner SAgep3: 39380.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 20620.0
+SAgep2: 0
+Winner is: p3
+
+Game 30: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 20440.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 39560.0
+Winner is: p6
+
+Game 31: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Rival Agentp4: 0
+Winner SAgep5: 59997.0
+Winner is: p5
+
+Game 32: 
+SAgep5: 3223.125
+Winner SAgep6: 56774.375
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 33: 
+SAgep4: 0
+Winner SAgep5: 40280.0
+Rival Agentp6: 0.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 19719.0
+Winner is: p5
+
+Game 34: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 6231.25
+Winner Rival Agentp1: 52514.125
+SAgep2: 1253.125
+Winner is: p1
+
+Game 35: 
+Winner SAgep1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 36: 
+SAgep6: 3322.03125
+Winner SAgep1: 45011.3359375
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 11665.21875
+Winner is: p1
+
+Game 37: 
+SAgep5: 0.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 10301.625
+Winner Rival Agentp3: 40156.125
+SAgep4: 9541.5625
+Winner is: p3
+
+Game 38: 
+SAgep4: 0
+SAgep5: 0.0
+Winner Rival Agentp6: 59998.5
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 39: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 40: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0.0
+Winner is: p5
+
+Game 41: 
+SAgep6: 0
+Winner SAgep1: 51895.7119140625
+Rival Agentp2: 0
+SAgep3: 8102.755859375
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 42: 
+SAgep5: 0
+Winner SAgep6: 59998.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 43: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999.5
+SAgep3: 0
+Winner is: p2
+
+Game 44: 
+SAgep3: 0
+SAgep4: 0.0
+Rival Agentp5: 0
+Winner SAgep6: 59996.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 45: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 46: 
+SAgep6: 0
+SAgep1: 19660.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 40340.0
+SAgep5: 0
+Winner is: p4
+
+Game 47: 
+SAgep5: 0
+Winner SAgep6: 60000
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 48: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 9744.375
+Winner Rival Agentp2: 42643.9375
+SAgep3: 7610.9375
+Winner is: p2
+
+Game 49: 
+SAgep3: 0
+SAgep4: 16132.0
+Winner Rival Agentp5: 34142.75
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 9724.0
+Winner is: p5
+
+Game 50: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 16660.0
+Winner Rival Agentp5: 43339.5
+SAgep6: 0
+Winner is: p5
+
+Game 51: 
+SAgep6: 11055.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 48945.0
+SAgep5: 0
+Winner is: p4
+
+Game 52: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 53: 
+Winner SAgep4: 60000.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 54: 
+SAgep3: 29446.40625
+SAgep4: 0.0
+Rival Agentp5: 0
+Winner SAgep6: 30553.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 55: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Winner is: p5
+
+Game 56: 
+SAgep6: 15271.55078125
+Winner SAgep1: 26202.6875
+Rival Agentp2: 0
+SAgep3: 17.5
+Rival Agentp4: 0
+SAgep5: 18506.40625
+Winner is: p1
+
+Game 57: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 58: 
+SAgep4: 0.0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 41634.0
+Rival Agentp2: 0
+SAgep3: 18362.5625
+Winner is: p1
+
+Game 59: 
+SAgep3: 0
+SAgep4: 20979.5
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 39020.3125
+Winner is: p2
+
+Game 60: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59998.84375
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 61: 
+SAgep6: 0
+Winner SAgep1: 59600.0
+Rival Agentp2: 0
+SAgep3: 400.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 62: 
+Winner SAgep5: 59264.25
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 733.7265625
+Winner is: p5
+
+Game 63: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 60000
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 64: 
+Winner SAgep3: 54477.0546875
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 5520.5
+Winner is: p3
+
+Game 65: 
+SAgep1: 0
+Winner SAgep2: 59999.2734375
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 66: 
+SAgep6: 9700.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 50300.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 67: 
+SAgep5: 0.0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 43352.75
+Rival Agentp3: 0
+SAgep4: 16645.0
+Winner is: p2
+
+Game 68: 
+SAgep4: 0
+Winner SAgep5: 30246.0
+Rival Agentp6: 0
+SAgep1: 29753.25
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 69: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 45869.0
+Rival Agentp1: 0
+SAgep2: 14130.0
+Winner is: p6
+
+Game 70: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 51034.25
+SAgep4: 8965.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 71: 
+SAgep6: 0.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 59996.0
+Winner is: p5
+
+Game 72: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 73: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 74: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 75: 
+SAgep1: 19960.0
+Winner SAgep2: 40040.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 76: 
+Winner SAgep6: 29578.125
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 14779.9375
+Rival Agentp4: 0
+SAgep5: 15639.375
+Winner is: p6
+
+Game 77: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 13400.0
+Winner Rival Agentp3: 46600.0
+SAgep4: 0
+Winner is: p3
+
+Game 78: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 272.5
+Winner SAgep3: 59727.5
+Winner is: p3
+
+Game 79: 
+SAgep3: 8085.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 51914.0
+SAgep2: 0
+Winner is: p1
+
+Game 80: 
+SAgep1: 0
+SAgep2: 19775.0
+Rival Agentp3: 0
+Winner SAgep4: 40224.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 81: 
+SAgep6: 0
+Winner SAgep1: 59700.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 300.0
+Winner is: p1
+
+Game 82: 
+SAgep5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 83: 
+SAgep4: 0.0
+SAgep5: 0
+Winner Rival Agentp6: 36805.046875
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 23193.125
+Winner is: p6
+
+Game 84: 
+SAgep3: 0
+Winner SAgep4: 59999.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 85: 
+SAgep1: 5524.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 54474.5
+Winner is: p6
+
+Game 86: 
+SAgep6: 0
+Winner SAgep1: 34483.0
+Rival Agentp2: 0
+SAgep3: 17040.0
+Rival Agentp4: 0
+SAgep5: 8475.15625
+Winner is: p1
+
+Game 87: 
+SAgep5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59999.0
+Winner is: p4
+
+Game 88: 
+SAgep4: 5351.46875
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 38617.97265625
+Rival Agentp2: 0
+SAgep3: 16029.3125
+Winner is: p1
+
+Game 89: 
+SAgep3: 2896.640625
+Winner SAgep4: 45149.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 11953.0
+Winner is: p4
+
+Game 90: 
+SAgep1: 0.0
+SAgep2: 0.0
+Rival Agentp3: 12905.375
+SAgep4: 0
+Winner Rival Agentp5: 47093.0
+SAgep6: 0
+Winner is: p5
+
+Game 91: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 92: 
+SAgep5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 93: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59998.61682128906
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 94: 
+SAgep3: 19707.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 40292.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 95: 
+SAgep1: 18269.0
+SAgep2: 0
+Winner Rival Agentp3: 41729.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 96: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 97: 
+Winner SAgep5: 59920.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 80.0
+Winner is: p5
+
+Game 98: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 29585.0
+Winner SAgep3: 30415.0
+Winner is: p3
+
+Game 99: 
+SAgep3: 0
+SAgep4: 12960.0
+Winner Rival Agentp5: 47040.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 100: 
+Winner SAgep1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0.0
+SAgep6: 0
+Winner is: p1
+
+Game 101: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 102: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Winner is: p4
+
+Game 103: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 3639.0
+Winner SAgep3: 56359.0
+Winner is: p3
+
+Game 104: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 105: 
+Winner SAgep1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 106: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 55925.0
+Rival Agentp4: 0
+SAgep5: 4073.75
+Winner is: p3
+
+Game 107: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 108: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59997.21875
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 109: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000
+SAgep2: 0
+Winner is: p1
+
+Game 110: 
+SAgep1: 11852.5
+SAgep2: 0
+Winner Rival Agentp3: 48147.5
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 111: 
+SAgep6: 17805.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 42195.0
+SAgep5: 0
+Winner is: p4
+
+Game 112: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59798.0
+Rival Agentp3: 0
+SAgep4: 192.32421875
+Winner is: p2
+
+Game 113: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 114: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 59998.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 115: 
+SAgep1: 6391.0625
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 45875.796875
+Rival Agentp5: 0
+SAgep6: 7730.06640625
+Winner is: p4
+
+Game 116: 
+SAgep6: 0
+SAgep1: 28352.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 31647.5
+Winner is: p5
+
+Game 117: 
+SAgep5: 0
+Winner SAgep6: 59350.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 650.0
+Winner is: p6
+
+Game 118: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 119: 
+Winner SAgep3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 120: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.375
+SAgep6: 0
+Winner is: p5
+
+Game 121: 
+SAgep6: 10115.25
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 43138.1875
+Rival Agentp4: 0
+SAgep5: 6744.375
+Winner is: p3
+
+Game 122: 
+Winner SAgep5: 29930.0
+SAgep6: 19677.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 10391.5
+Winner is: p5
+
+Game 123: 
+SAgep4: 2497.5
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 57502.0
+SAgep3: 0
+Winner is: p2
+
+Game 124: 
+Winner SAgep3: 59998.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p3
+
+Game 125: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 28887.5
+Winner SAgep6: 31112.5
+Winner is: p6
+
+Game 126: 
+SAgep6: 9804.5
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 40095.0
+Rival Agentp4: 0
+SAgep5: 10100.0
+Winner is: p3
+
+Game 127: 
+SAgep5: 0
+Winner SAgep6: 30058.0
+Rival Agentp1: 0
+SAgep2: 20211.0
+Rival Agentp3: 0
+SAgep4: 9729.140625
+Winner is: p6
+
+Game 128: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p6
+
+Game 129: 
+SAgep3: 0.0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 130: 
+Winner SAgep1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 131: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 49531.5
+Rival Agentp4: 0
+SAgep5: 10466.0
+Winner is: p3
+
+Game 132: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 12275.0
+Winner SAgep4: 47725.0
+Winner is: p4
+
+Game 133: 
+SAgep4: 5880.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 54120.0
+SAgep3: 0
+Winner is: p2
+
+Game 134: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 135: 
+SAgep1: 11708.75
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 2021.0
+Rival Agentp5: 0
+Winner SAgep6: 46268.875
+Winner is: p6
+
+Game 136: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59998.1875
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 137: 
+Winner SAgep5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 138: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 59999.5
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 139: 
+SAgep3: 0
+SAgep4: 10408.25
+Rival Agentp5: 14833.0
+Winner SAgep6: 34756.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 140: 
+Winner SAgep1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 141: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.5
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 142: 
+SAgep5: 0
+Winner SAgep6: 59997.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p6
+
+Game 143: 
+SAgep4: 0.0
+SAgep5: 0.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59998.75
+Winner is: p3
+
+Game 144: 
+Winner SAgep3: 39797.0
+SAgep4: 20202.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 145: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 146: 
+Winner SAgep6: 60000
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 147: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner Rival Agentp3: 59999.25
+SAgep4: 0
+Winner is: p3
+
+Game 148: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.25
+Winner is: p3
+
+Game 149: 
+Winner SAgep3: 59999.09375
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 150: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.0
+SAgep6: 0
+Winner is: p5
+
+Game 151: 
+SAgep6: 0
+SAgep1: 14225.0
+Rival Agentp2: 0
+Winner SAgep3: 45773.75
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 152: 
+SAgep5: 21892.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 38107.5
+SAgep4: 0
+Winner is: p3
+
+Game 153: 
+SAgep4: 0.0
+SAgep5: 0
+Rival Agentp6: 28994.0
+Winner SAgep1: 31004.5
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 154: 
+SAgep3: 0
+SAgep4: 4678.5625
+Rival Agentp5: 0
+Winner SAgep6: 55319.0263671875
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 155: 
+SAgep1: 10850.0
+SAgep2: 2631.0
+Rival Agentp3: 0
+Winner SAgep4: 46516.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 156: 
+Winner SAgep6: 57542.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 2456.0
+Winner is: p6
+
+Game 157: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 158: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 60000
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 159: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 160: 
+SAgep1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 161: 
+SAgep6: 0
+SAgep1: 8130.0
+Winner Rival Agentp2: 51870.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 162: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 37616.75
+SAgep4: 22382.0
+Winner is: p3
+
+Game 163: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 1290.0
+Winner SAgep3: 58710.0
+Winner is: p3
+
+Game 164: 
+SAgep3: 10120.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0.0
+Winner SAgep2: 49880.0
+Winner is: p2
+
+Game 165: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 166: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 167: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 168: 
+SAgep4: 0
+SAgep5: 7783.75
+Winner Rival Agentp6: 43716.75
+SAgep1: 8498.75
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 169: 
+Winner SAgep3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 170: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 6068.984375
+Rival Agentp5: 0
+Winner SAgep6: 53930.984375
+Winner is: p6
+
+Game 171: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 44700.0
+SAgep5: 15300.0
+Winner is: p4
+
+Game 172: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 173: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 9163.0
+Winner Rival Agentp2: 35828.6875
+SAgep3: 15005.0
+Winner is: p2
+
+Game 174: 
+SAgep3: 0
+SAgep4: 8856.0
+Rival Agentp5: 0
+Winner SAgep6: 51142.0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p6
+
+Game 175: 
+SAgep1: 0
+SAgep2: 1623.0078125
+Rival Agentp3: 0
+SAgep4: 14408.5
+Winner Rival Agentp5: 39679.2265625
+SAgep6: 4286.875
+Winner is: p5
+
+Game 176: 
+SAgep6: 22819.359375
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 37179.84375
+Winner is: p5
+
+Game 177: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 178: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000
+SAgep3: 0
+Winner is: p2
+
+Game 179: 
+Winner SAgep3: 39762.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 20236.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 180: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 55780.0
+SAgep6: 4220.0
+Winner is: p5
+
+Game 181: 
+SAgep6: 0
+Winner SAgep1: 59999.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 182: 
+SAgep5: 9225.0
+SAgep6: 0
+Winner Rival Agentp1: 50775.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 183: 
+Winner SAgep4: 59999.5
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p4
+
+Game 184: 
+SAgep3: 17937.5
+Winner SAgep4: 20040.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 3702.0
+SAgep2: 18320.0
+Winner is: p4
+
+Game 185: 
+SAgep1: 0
+Winner SAgep2: 39900.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 20100.0
+Winner is: p2
+
+Game 186: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 187: 
+Winner SAgep5: 29732.0
+SAgep6: 8790.8125
+Rival Agentp1: 0
+SAgep2: 21474.0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p5
+
+Game 188: 
+SAgep4: 297.0
+SAgep5: 0
+Rival Agentp6: 450.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59252.0
+Winner is: p3
+
+Game 189: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 41811.75
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 18187.0
+Winner is: p5
+
+Game 190: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59999.125
+SAgep4: 0.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 191: 
+Winner SAgep6: 37200.0
+SAgep1: 0
+Rival Agentp2: 22798.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 192: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 14845.0
+Winner SAgep2: 45154.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 193: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 194: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 195: 
+SAgep1: 18787.64208984375
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 41208.7431640625
+Rival Agentp5: 0
+SAgep6: 0.0
+Winner is: p4
+
+Game 196: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 197: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 137.5
+Winner SAgep2: 59862.5
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 198: 
+SAgep4: 17265.0
+SAgep5: 0
+Winner Rival Agentp6: 42735.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p6
+
+Game 199: 
+Winner SAgep3: 28906.75
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 21574.25
+Rival Agentp1: 0
+SAgep2: 9517.25
+Winner is: p3
+
+Game 200: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Winner is: p6
+
+Game 201: 
+SAgep6: 0
+Winner SAgep1: 50202.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 9796.5625
+Winner is: p1
+
+Game 202: 
+SAgep5: 1271.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 58727.0
+SAgep4: 0
+Winner is: p3
+
+Game 203: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 204: 
+SAgep3: 0
+SAgep4: 19241.25
+Rival Agentp5: 0.0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 40757.125
+Winner is: p2
+
+Game 205: 
+Winner SAgep1: 59363.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 634.5859375
+Winner is: p1
+
+Game 206: 
+SAgep6: 10416.75
+SAgep1: 180.3125
+Rival Agentp2: 0
+Winner SAgep3: 43350.3125
+Rival Agentp4: 0
+SAgep5: 6051.875
+Winner is: p3
+
+Game 207: 
+SAgep5: 21079.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 38920.0
+Winner is: p4
+
+Game 208: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 46452.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 13547.5
+Winner is: p6
+
+Game 209: 
+SAgep3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 210: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.0
+SAgep6: 0
+Winner is: p5
+
+Game 211: 
+SAgep6: 27740.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 32260.0
+SAgep5: 0
+Winner is: p4
+
+Game 212: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 213: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p6
+
+Game 214: 
+SAgep3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 215: 
+SAgep1: 0.0
+Winner SAgep2: 59997.25
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 216: 
+SAgep6: 0
+SAgep1: 0.0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 217: 
+SAgep5: 0
+Winner SAgep6: 59999.25
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p6
+
+Game 218: 
+Winner SAgep4: 42834.0
+SAgep5: 0
+Rival Agentp6: 17164.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 219: 
+SAgep3: 0
+SAgep4: 19280.0
+Winner Rival Agentp5: 40720.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 220: 
+SAgep1: 19870.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner Rival Agentp5: 30160.0
+SAgep6: 9970
+Winner is: p5
+
+Game 221: 
+SAgep6: 19712.5
+SAgep1: 11384.5
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 28902.5
+SAgep5: 0
+Winner is: p4
+
+Game 222: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 43336.3671875
+Rival Agentp3: 0
+SAgep4: 16662.0
+Winner is: p2
+
+Game 223: 
+Winner SAgep4: 49407.4296875
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 10589.5
+Winner is: p4
+
+Game 224: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 45220.0
+SAgep2: 14780.0
+Winner is: p1
+
+Game 225: 
+Winner SAgep1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 226: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 30286.0
+Rival Agentp4: 0
+SAgep5: 29713.75
+Winner is: p3
+
+Game 227: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 47074.0
+SAgep4: 12925.0
+Winner is: p3
+
+Game 228: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 44916.25
+SAgep3: 15083.25
+Winner is: p2
+
+Game 229: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 5788.625
+SAgep6: 0
+Winner Rival Agentp1: 39229.375
+SAgep2: 14978.625
+Winner is: p1
+
+Game 230: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 59999.0
+Winner is: p6
+
+Game 231: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 346.25
+Winner Rival Agentp4: 59653.5
+SAgep5: 0
+Winner is: p4
+
+Game 232: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 233: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 234: 
+Winner SAgep3: 45606.0
+SAgep4: 14391.28125
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p3
+
+Game 235: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 236: 
+SAgep6: 0
+SAgep1: 8940.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 51060.0
+SAgep5: 0
+Winner is: p4
+
+Game 237: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 7775.0
+Winner Rival Agentp3: 52223.5
+SAgep4: 0
+Winner is: p3
+
+Game 238: 
+SAgep4: 0
+Winner SAgep5: 60000.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 239: 
+Winner SAgep3: 59999.0
+SAgep4: 0.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 240: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 241: 
+SAgep6: 316.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 39931.0
+Rival Agentp4: 0
+SAgep5: 19752.0
+Winner is: p3
+
+Game 242: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 243: 
+SAgep4: 0
+Winner SAgep5: 39941.5
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 20057.5
+Winner is: p5
+
+Game 244: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 51075.0
+SAgep2: 8925.0
+Winner is: p1
+
+Game 245: 
+SAgep1: 92.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 7653.75
+Winner Rival Agentp5: 52252.0
+SAgep6: 0.0
+Winner is: p5
+
+Game 246: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 44740.0
+SAgep5: 15260.0
+Winner is: p4
+
+Game 247: 
+SAgep5: 14055.0
+SAgep6: 0
+Winner Rival Agentp1: 45944.1875
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 248: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.703125
+Winner is: p3
+
+Game 249: 
+SAgep3: 0
+SAgep4: 0.0
+Winner Rival Agentp5: 59999.25
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 250: 
+SAgep1: 8705.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 51295.0
+SAgep6: 0
+Winner is: p5
+
+Game 251: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 252: 
+Winner SAgep5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 253: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Winner is: p3
+
+Game 254: 
+Winner SAgep3: 59990.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 255: 
+Winner SAgep1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 256: 
+SAgep6: 0
+Winner SAgep1: 53126.5
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 6872.0
+Winner is: p1
+
+Game 257: 
+SAgep5: 29891.0
+Winner SAgep6: 30108.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 258: 
+SAgep4: 8794.4921875
+Winner SAgep5: 43426.744140625
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 7777.96875
+Winner is: p5
+
+Game 259: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 31001.25
+Rival Agentp1: 0
+SAgep2: 28998.0
+Winner is: p6
+
+Game 260: 
+SAgep1: 4455.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 55545.0
+SAgep6: 0
+Winner is: p5
+
+Game 261: 
+SAgep6: 24685.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 1745.0
+Winner SAgep5: 33570.0
+Winner is: p5
+
+Game 262: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 263: 
+Winner SAgep4: 60000.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 264: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 19092.5
+Winner SAgep2: 40907.5
+Winner is: p2
+
+Game 265: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 266: 
+SAgep6: 0
+SAgep1: 19500.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 40500.0
+SAgep5: 0
+Winner is: p4
+
+Game 267: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 268: 
+SAgep4: 0.0
+SAgep5: 0
+Rival Agentp6: 2408.75
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 57590.0
+Winner is: p3
+
+Game 269: 
+SAgep3: 0
+Winner SAgep4: 39960.0
+Rival Agentp5: 20040.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 270: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 59999.0
+Winner is: p6
+
+Game 271: 
+SAgep6: 0
+SAgep1: 16244.0
+Winner Rival Agentp2: 23832.625
+SAgep3: 19920.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 272: 
+SAgep5: 0
+SAgep6: 18082.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 41916.75
+SAgep4: 0
+Winner is: p3
+
+Game 273: 
+Winner SAgep4: 59999.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 274: 
+SAgep3: 0
+Winner SAgep4: 59999.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 275: 
+SAgep1: 0
+Winner SAgep2: 59944.0
+Rival Agentp3: 0
+SAgep4: 53.71875
+Rival Agentp5: 0
+SAgep6: 0.0
+Winner is: p2
+
+Game 276: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 277: 
+SAgep5: 1201.71875
+SAgep6: 19692.5
+Rival Agentp1: 0.0
+SAgep2: 0.0
+Rival Agentp3: 0.0
+Winner SAgep4: 39105.0
+Winner is: p4
+
+Game 278: 
+Winner SAgep4: 59999.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 279: 
+Winner SAgep3: 49928.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 10070.40625
+Winner is: p3
+
+Game 280: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.4765625
+SAgep6: 0
+Winner is: p5
+
+Game 281: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 282: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59999.0
+SAgep4: 0
+Winner is: p3
+
+Game 283: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 14607.0
+Winner Rival Agentp2: 45391.875
+SAgep3: 0
+Winner is: p2
+
+Game 284: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 285: 
+SAgep1: 0
+SAgep2: 23078.0
+Winner Rival Agentp3: 26560.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 10361.0
+Winner is: p3
+
+Game 286: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 287: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 41318.0625
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 18681.0
+Winner is: p1
+
+Game 288: 
+SAgep4: 0
+SAgep5: 7825.625
+Rival Agentp6: 0
+Winner SAgep1: 52173.125
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 289: 
+SAgep3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 290: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 59990.0
+Winner is: p6
+
+Game 291: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59990.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 292: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 293: 
+SAgep4: 0
+Winner SAgep5: 59999.5
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 294: 
+SAgep3: 0
+Winner SAgep4: 38168.5
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 21830.625
+Winner is: p4
+
+Game 295: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 296: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 297: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 1380.5859375
+Rival Agentp3: 0
+Winner SAgep4: 58618.140625
+Winner is: p4
+
+Game 298: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 30190.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 29810.0
+Winner is: p6
+
+Game 299: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.125
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 300: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59999.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 301: 
+SAgep6: 0
+SAgep1: 9600.0
+Rival Agentp2: 0
+Winner SAgep3: 50399.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 302: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 303: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59999.125
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 304: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59999.125
+SAgep2: 0.0
+Winner is: p1
+
+Game 305: 
+Winner SAgep1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 306: 
+SAgep6: 0.0
+SAgep1: 0
+Winner Rival Agentp2: 59998.25
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 307: 
+SAgep5: 20209.515625
+Winner SAgep6: 29900.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 9890.46875
+Winner is: p6
+
+Game 308: 
+SAgep4: 11113.0
+SAgep5: 5718.0
+Winner Rival Agentp6: 38386.5
+SAgep1: 0
+Rival Agentp2: 4779.25
+SAgep3: 0
+Winner is: p6
+
+Game 309: 
+Winner SAgep3: 59999.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 310: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 55227.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 4772.5
+Winner is: p3
+
+Game 311: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 59999.5
+SAgep5: 0
+Winner is: p4
+
+Game 312: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 313: 
+SAgep4: 0
+SAgep5: 0.0
+Rival Agentp6: 29553.0
+Winner SAgep1: 30445.75
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 314: 
+SAgep3: 7534.59375
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 52463.09375
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 315: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 316: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 39801.75
+Rival Agentp4: 0
+SAgep5: 20196.5
+Winner is: p3
+
+Game 317: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 12801.0
+Winner Rival Agentp3: 47197.0234375
+SAgep4: 0
+Winner is: p3
+
+Game 318: 
+Winner SAgep4: 60000.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0.0
+SAgep3: 0
+Winner is: p4
+
+Game 319: 
+SAgep3: 5922.5
+SAgep4: 0
+Winner Rival Agentp5: 54077.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 320: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59999.125
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 321: 
+Winner SAgep6: 59999.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 322: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 323: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 19597.96875
+Rival Agentp2: 0.0
+Winner SAgep3: 40402.0
+Winner is: p3
+
+Game 324: 
+Winner SAgep3: 49970.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 10030.0
+Winner is: p3
+
+Game 325: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59258.234375
+Rival Agentp5: 0
+SAgep6: 739.0625
+Winner is: p4
+
+Game 326: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 54376.25
+SAgep5: 5622.0
+Winner is: p4
+
+Game 327: 
+SAgep5: 6363.1171875
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 36313.9453125
+Rival Agentp3: 0
+SAgep4: 17320.265625
+Winner is: p2
+
+Game 328: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 329: 
+Winner SAgep3: 32212.0
+SAgep4: 27787.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 330: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 331: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 332: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59999.75
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 333: 
+SAgep4: 6170.625
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 53827.0
+Winner is: p3
+
+Game 334: 
+SAgep3: 0
+Winner SAgep4: 49661.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 10338.5
+Winner is: p4
+
+Game 335: 
+SAgep1: 0.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Winner is: p6
+
+Game 336: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0.0
+Winner SAgep5: 59999.0
+Winner is: p5
+
+Game 337: 
+SAgep5: 0
+Winner SAgep6: 36923.75
+Rival Agentp1: 0
+SAgep2: 23074.375
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 338: 
+SAgep4: 20310.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 39690.0
+Winner is: p3
+
+Game 339: 
+Winner SAgep3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 340: 
+SAgep1: 9989.5
+Winner SAgep2: 50010.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 341: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 10647.125
+Rival Agentp4: 0
+Winner SAgep5: 49349.5
+Winner is: p5
+
+Game 342: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 53142.0
+SAgep2: 792.0
+Rival Agentp3: 0
+SAgep4: 6065.322265625
+Winner is: p1
+
+Game 343: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 20720.0
+Winner SAgep3: 39280.0
+Winner is: p3
+
+Game 344: 
+SAgep3: 0.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.0
+SAgep2: 0
+Winner is: p1
+
+Game 345: 
+SAgep1: 0
+Winner SAgep2: 59998.549560546875
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 346: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 59990.0
+SAgep5: 0
+Winner is: p4
+
+Game 347: 
+SAgep5: 0
+Winner SAgep6: 40059.5
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 19940
+Winner is: p6
+
+Game 348: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 349: 
+SAgep3: 24313.0
+SAgep4: 0.0
+Rival Agentp5: 0
+Winner SAgep6: 35684.0
+Rival Agentp1: 0.0
+SAgep2: 0
+Winner is: p6
+
+Game 350: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 934.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 59065.0
+Winner is: p6
+
+Game 351: 
+SAgep6: 10476.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 46208.0
+Rival Agentp4: 0
+SAgep5: 3314.0
+Winner is: p3
+
+Game 352: 
+Winner SAgep5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 353: 
+SAgep4: 19440.125
+Winner SAgep5: 40549.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 354: 
+SAgep3: 0
+SAgep4: 63.50390625
+Rival Agentp5: 0
+Winner SAgep6: 59935.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 355: 
+SAgep1: 0.0
+Winner SAgep2: 59999.5
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 356: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner Rival Agentp4: 59995.625
+SAgep5: 0
+Winner is: p4
+
+Game 357: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000
+SAgep4: 0
+Winner is: p3
+
+Game 358: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59998.75
+SAgep3: 0
+Winner is: p2
+
+Game 359: 
+Winner SAgep3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 360: 
+SAgep1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 361: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 16775.5
+SAgep3: 16512.5
+Rival Agentp4: 0
+Winner SAgep5: 26711.25
+Winner is: p5
+
+Game 362: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 363: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 51557.0
+SAgep3: 8442.5
+Winner is: p2
+
+Game 364: 
+Winner SAgep3: 39962.0
+SAgep4: 20037.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 365: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 366: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 59999.0
+Winner is: p5
+
+Game 367: 
+Winner SAgep5: 58305.0
+SAgep6: 0
+Rival Agentp1: 1694.0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 368: 
+SAgep4: 0
+Winner SAgep5: 59999.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 369: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 370: 
+SAgep1: 5.0
+Winner SAgep2: 26694.775390625
+Rival Agentp3: 0
+SAgep4: 15493.275390625
+Rival Agentp5: 0
+SAgep6: 17806.25
+Winner is: p2
+
+Game 371: 
+SAgep6: 0
+Winner SAgep1: 32407.5
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 27592.5
+Winner is: p1
+
+Game 372: 
+SAgep5: 0
+Winner SAgep6: 60000
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 373: 
+Winner SAgep4: 60000.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 374: 
+SAgep3: 27234.84375
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 31669.0
+Rival Agentp1: 0
+SAgep2: 1094.609375
+Winner is: p6
+
+Game 375: 
+SAgep1: 9770.0
+Winner SAgep2: 45054.75
+Rival Agentp3: 0
+SAgep4: 5174.375
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 376: 
+Winner SAgep6: 30316.09375
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 29683.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 377: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 378: 
+Winner SAgep4: 41502.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 18497.5
+Winner is: p4
+
+Game 379: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 13076.0
+Winner Rival Agentp1: 37155.0
+SAgep2: 9768.75
+Winner is: p1
+
+Game 380: 
+SAgep1: 0
+SAgep2: 95.0
+Rival Agentp3: 0
+Winner SAgep4: 59724.0
+Rival Agentp5: 0
+SAgep6: 180
+Winner is: p4
+
+Game 381: 
+SAgep6: 0.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 29820.0
+Rival Agentp4: 0
+Winner SAgep5: 30179.0
+Winner is: p5
+
+Game 382: 
+Winner SAgep5: 58993.6875
+SAgep6: 1003.4375
+Rival Agentp1: 0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p5
+
+Game 383: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000
+SAgep3: 0
+Winner is: p2
+
+Game 384: 
+SAgep3: 0.0
+SAgep4: 0
+Winner Rival Agentp5: 58682.25
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 1316.25
+Winner is: p5
+
+Game 385: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Winner is: p5
+
+Game 386: 
+SAgep6: 4942.265625
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 55057.265625
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 387: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59999.375
+SAgep4: 0
+Winner is: p3
+
+Game 388: 
+Winner SAgep4: 59999.0
+SAgep5: 0.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 389: 
+SAgep3: 796.0
+SAgep4: 16243.046875
+Winner Rival Agentp5: 35824.046875
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 7133.5
+Winner is: p5
+
+Game 390: 
+Winner SAgep1: 40180.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 19820.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 391: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.5
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 392: 
+SAgep5: 0.0
+SAgep6: 8243.125
+Winner Rival Agentp1: 41846.625
+SAgep2: 9910.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 393: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 42840.0
+SAgep1: 17150.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 394: 
+Winner SAgep3: 40214.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 19785.5
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 395: 
+SAgep1: 5521.0625
+SAgep2: 0.0
+Rival Agentp3: 0
+Winner SAgep4: 54477.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Winner is: p4
+
+Game 396: 
+SAgep6: 0
+Winner SAgep1: 59999.75
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 397: 
+SAgep5: 0
+Winner SAgep6: 38677.5
+Rival Agentp1: 0
+SAgep2: 21320.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 398: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 399: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Winner is: p2
+
+Game 400: 
+SAgep1: 0
+SAgep2: 7.0
+Winner Rival Agentp3: 59992.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 401: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 53610.0
+SAgep5: 6390.0
+Winner is: p4
+
+Game 402: 
+SAgep5: 11412.0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 48585.5
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 403: 
+SAgep4: 19237.0
+SAgep5: 9255.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 31506.0
+Winner is: p3
+
+Game 404: 
+SAgep3: 0
+Winner SAgep4: 43457.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 16540.0
+Winner is: p4
+
+Game 405: 
+SAgep1: 13981.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 46016.0
+Winner is: p6
+
+Game 406: 
+SAgep6: 0
+Winner SAgep1: 39970.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 20030.0
+SAgep5: 0
+Winner is: p1
+
+Game 407: 
+SAgep5: 0.0
+SAgep6: 388.0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner Rival Agentp3: 59609.5
+SAgep4: 0
+Winner is: p3
+
+Game 408: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 409: 
+SAgep3: 0.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59999.0
+SAgep2: 0
+Winner is: p1
+
+Game 410: 
+SAgep1: 5475.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 48886.0
+SAgep6: 5636.5
+Winner is: p5
+
+Game 411: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0.0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 59997.0
+Winner is: p5
+
+Game 412: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 42540.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 17460.0
+Winner is: p1
+
+Game 413: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.5
+Winner is: p3
+
+Game 414: 
+SAgep3: 2639.25
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 33599.5546875
+Rival Agentp1: 0
+SAgep2: 23758.8125
+Winner is: p6
+
+Game 415: 
+SAgep1: 0
+SAgep2: 7101.921875
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 52895.0
+Winner is: p6
+
+Game 416: 
+SAgep6: 5654.375
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 54344.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 417: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 418: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 59990.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 10.0
+Winner is: p6
+
+Game 419: 
+SAgep3: 470.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 29875.0
+SAgep2: 29655.0
+Winner is: p1
+
+Game 420: 
+SAgep1: 28090.0
+Winner SAgep2: 31910.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 421: 
+SAgep6: 0
+SAgep1: 2014.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 57985.0
+SAgep5: 0
+Winner is: p4
+
+Game 422: 
+SAgep5: 0
+Winner SAgep6: 59999.5
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 423: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 424: 
+Winner SAgep3: 30189.5
+SAgep4: 19450.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 10360.0
+Winner is: p3
+
+Game 425: 
+SAgep1: 11979.0234375
+SAgep2: 11927.09375
+Rival Agentp3: 0
+SAgep4: 16031.1875
+Rival Agentp5: 0
+Winner SAgep6: 20060.0
+Winner is: p6
+
+Game 426: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 427: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 428: 
+Winner SAgep4: 47307.4375
+SAgep5: 6118.125
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 6573.4375
+Winner is: p4
+
+Game 429: 
+SAgep3: 10307.25
+Winner SAgep4: 49690.625
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 430: 
+SAgep1: 11297.0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 48702.0
+SAgep6: 0
+Winner is: p5
+
+Game 431: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 432: 
+Winner SAgep5: 59990
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 433: 
+SAgep4: 0.0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59998.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 434: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 47073.125
+Rival Agentp1: 0
+SAgep2: 12925.75
+Winner is: p6
+
+Game 435: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 436: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 437: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59999.25
+SAgep4: 0
+Winner is: p3
+
+Game 438: 
+Winner SAgep4: 41043.59375
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 18954.1875
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 439: 
+SAgep3: 0
+Winner SAgep4: 56210.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 3790.0
+SAgep2: 0
+Winner is: p4
+
+Game 440: 
+Winner SAgep1: 29032.9375
+SAgep2: 26338.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 4627.15625
+Winner is: p1
+
+Game 441: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999.5
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 442: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 443: 
+SAgep4: 27345.0
+SAgep5: 0
+Winner Rival Agentp6: 32655.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 444: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 50350.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 9650.0
+Winner is: p5
+
+Game 445: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Winner is: p5
+
+Game 446: 
+SAgep6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 447: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 11167.5
+Winner SAgep2: 48832.5
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 448: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59990.0
+Winner is: p3
+
+Game 449: 
+SAgep3: 0
+SAgep4: 0.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59999.0
+SAgep2: 0
+Winner is: p1
+
+Game 450: 
+SAgep1: 0
+Winner SAgep2: 38827.09375
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 21171.0
+Winner is: p2
+
+Game 451: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 59999.5
+SAgep5: 0
+Winner is: p4
+
+Game 452: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59999.21875
+SAgep4: 0
+Winner is: p3
+
+Game 453: 
+Winner SAgep4: 48663.0
+SAgep5: 11335.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0.0
+SAgep3: 0
+Winner is: p4
+
+Game 454: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 455: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 456: 
+SAgep6: 19555.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 40445.0
+SAgep5: 0
+Winner is: p4
+
+Game 457: 
+Winner SAgep5: 60000
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 458: 
+SAgep4: 1472.5
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 58527.0
+SAgep3: 0
+Winner is: p2
+
+Game 459: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 39650.0
+SAgep2: 20350.0
+Winner is: p1
+
+Game 460: 
+SAgep1: 0.0
+SAgep2: 0
+Rival Agentp3: 20570.859375
+Winner SAgep4: 38681.859375
+Rival Agentp5: 0
+SAgep6: 744.0625
+Winner is: p4
+
+Game 461: 
+Winner SAgep6: 60000
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 462: 
+SAgep5: 15662.9296875
+Winner SAgep6: 43432.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 901.0
+Winner is: p6
+
+Game 463: 
+SAgep4: 0
+SAgep5: 0.0
+Rival Agentp6: 0
+Winner SAgep1: 59998.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 464: 
+SAgep3: 0
+Winner SAgep4: 48974.0
+Rival Agentp5: 0
+SAgep6: 11025.0
+Rival Agentp1: 0.0
+SAgep2: 0
+Winner is: p4
+
+Game 465: 
+Winner SAgep1: 52623.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 7373.97705078125
+Winner is: p1
+
+Game 466: 
+SAgep6: 0
+Winner SAgep1: 59988.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 467: 
+SAgep5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 29972.5
+Rival Agentp3: 0
+Winner SAgep4: 30026.5
+Winner is: p4
+
+Game 468: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 1663.02734375
+Winner Rival Agentp2: 58336.0
+SAgep3: 0
+Winner is: p2
+
+Game 469: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 470: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 471: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 472: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 51752.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 8247.5
+Winner is: p1
+
+Game 473: 
+SAgep4: 20712.5
+SAgep5: 593.75
+Rival Agentp6: 0.0
+Winner SAgep1: 24335.0
+Rival Agentp2: 7791.75
+SAgep3: 6565.625
+Winner is: p1
+
+Game 474: 
+SAgep3: 0
+SAgep4: 19940.0
+Rival Agentp5: 0
+Winner SAgep6: 40060.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 475: 
+SAgep1: 0
+SAgep2: 29.39453125
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59970.0
+SAgep6: 0
+Winner is: p5
+
+Game 476: 
+SAgep6: 0
+SAgep1: 16321.0
+Rival Agentp2: 0
+Winner SAgep3: 43676.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 477: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 35630.0
+SAgep4: 24370.0
+Winner is: p3
+
+Game 478: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 479: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 17552.0
+Winner SAgep2: 42447.0
+Winner is: p2
+
+Game 480: 
+SAgep1: 4760.9375
+SAgep2: 0
+Winner Rival Agentp3: 55238.1875
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 481: 
+SAgep6: 0
+Winner SAgep1: 58824.0
+Rival Agentp2: 0
+SAgep3: 1175.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 482: 
+Winner SAgep5: 59997.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 483: 
+Winner SAgep4: 59947.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 50.0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p4
+
+Game 484: 
+SAgep3: 0
+Winner SAgep4: 50847.375
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 9151.125
+Winner is: p4
+
+Game 485: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 486: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 487: 
+SAgep5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 488: 
+SAgep4: 0
+Winner SAgep5: 59998.0
+Rival Agentp6: 0
+SAgep1: 0.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 489: 
+SAgep3: 0
+SAgep4: 25.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59974.0
+Winner is: p2
+
+Game 490: 
+SAgep1: 0
+Winner SAgep2: 46322.5
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 13677.5
+SAgep6: 0
+Winner is: p2
+
+Game 491: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 492: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 493: 
+SAgep4: 0
+SAgep5: 19757.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 40242.0
+Winner is: p3
+
+Game 494: 
+Winner SAgep3: 36535.0
+SAgep4: 11146.015625
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 12318.015625
+Winner is: p3
+
+Game 495: 
+SAgep1: 28346.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 31139.0
+SAgep6: 512.5
+Winner is: p5
+
+Game 496: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 497: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 19190.0
+Winner SAgep4: 40810.0
+Winner is: p4
+
+Game 498: 
+SAgep4: 26370.0
+Winner SAgep5: 33627.5
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 499: 
+SAgep3: 23343.25
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 2552.0
+Winner Rival Agentp1: 34102.875
+SAgep2: 0
+Winner is: p1
+
+Game 500: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 501: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 502: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 503: 
+SAgep4: 0
+Winner SAgep5: 45626.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 14373.0
+SAgep3: 0
+Winner is: p5
+
+Game 504: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 505: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 506: 
+SAgep6: 0
+SAgep1: 19435.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 40565.0
+SAgep5: 0
+Winner is: p4
+
+Game 507: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p1
+
+Game 508: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 59406.75
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 592.0
+Winner is: p6
+
+Game 509: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 510: 
+SAgep1: 19896.25
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 40102.5
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 511: 
+Winner SAgep6: 28879.2578125
+SAgep1: 0.0
+Rival Agentp2: 0
+SAgep3: 3473.4375
+Rival Agentp4: 0
+SAgep5: 27646.21875
+Winner is: p6
+
+Game 512: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59998.0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p2
+
+Game 513: 
+SAgep4: 0.0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 514: 
+SAgep3: 18435.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 32430.0
+SAgep2: 9135.0
+Winner is: p1
+
+Game 515: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Winner is: p5
+
+Game 516: 
+SAgep6: 0
+Winner SAgep1: 50365.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 9634.921875
+Winner is: p1
+
+Game 517: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 518: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 624.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59374.0
+Winner is: p3
+
+Game 519: 
+Winner SAgep3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 520: 
+SAgep1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 521: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999.5
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 522: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 50085.0
+Rival Agentp3: 0
+SAgep4: 9915.0
+Winner is: p2
+
+Game 523: 
+SAgep4: 19650.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 40350.0
+SAgep3: 0
+Winner is: p2
+
+Game 524: 
+SAgep3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 525: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 526: 
+SAgep6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 527: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59997.875
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 528: 
+Winner SAgep4: 40050.0
+SAgep5: 19950.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 529: 
+SAgep3: 0.0
+Winner SAgep4: 50736.0
+Rival Agentp5: 0
+SAgep6: 9262.1875
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 530: 
+SAgep1: 0
+SAgep2: 7290.0
+Winner Rival Agentp3: 52700.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 10.0
+Winner is: p3
+
+Game 531: 
+SAgep6: 18237.0
+Winner SAgep1: 41761.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 532: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 31630.9375
+SAgep2: 28366.0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p1
+
+Game 533: 
+SAgep4: 9651.875
+SAgep5: 0
+Winner Rival Agentp6: 43256.9375
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 7090.9375
+Winner is: p6
+
+Game 534: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 39110.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 20890.0
+Winner is: p5
+
+Game 535: 
+SAgep1: 27688.796875
+SAgep2: 0.0
+Rival Agentp3: 0
+Winner SAgep4: 32308.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 536: 
+SAgep6: 14648.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 45350.125
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 537: 
+SAgep5: 12623.359375
+Winner SAgep6: 47375.109375
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 538: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 40080.0
+SAgep1: 19920.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 539: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000
+SAgep2: 0
+Winner is: p1
+
+Game 540: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 20322.0
+Rival Agentp5: 0
+Winner SAgep6: 39677.0
+Winner is: p6
+
+Game 541: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 51436.75
+SAgep3: 8562.5
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 542: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 26712.0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 33287.0
+Winner is: p4
+
+Game 543: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0.0
+Winner Rival Agentp2: 59996.69921875
+SAgep3: 0
+Winner is: p2
+
+Game 544: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 545: 
+SAgep1: 7421.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 34415.0
+SAgep6: 18162.0
+Winner is: p5
+
+Game 546: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 60000.0
+Winner is: p5
+
+Game 547: 
+SAgep5: 755.1875
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59241.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 548: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 52.625
+Winner Rival Agentp2: 59945.5
+SAgep3: 0
+Winner is: p2
+
+Game 549: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59995.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 550: 
+SAgep1: 9072.0
+SAgep2: 0
+Winner Rival Agentp3: 49841.529296875
+SAgep4: 1082.607421875
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 551: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 552: 
+SAgep5: 0
+Winner SAgep6: 59999.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0.0
+SAgep4: 0
+Winner is: p6
+
+Game 553: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 554: 
+SAgep3: 4276.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 55165.5
+Rival Agentp1: 0
+SAgep2: 554.5
+Winner is: p6
+
+Game 555: 
+Winner SAgep1: 60000
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 556: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 59998.9375
+SAgep5: 0
+Winner is: p4
+
+Game 557: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Winner is: p4
+
+Game 558: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 559: 
+SAgep3: 0
+SAgep4: 18410.0
+Winner Rival Agentp5: 41590.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 560: 
+SAgep1: 834.375
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59163.375
+SAgep6: 0
+Winner is: p5
+
+Game 561: 
+SAgep6: 18330.0
+SAgep1: 0
+Winner Rival Agentp2: 41670.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 562: 
+Winner SAgep5: 42804.015625
+SAgep6: 7220.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 9975.0
+Winner is: p5
+
+Game 563: 
+SAgep4: 25619.3125
+SAgep5: 8451.0
+Rival Agentp6: 0
+Winner SAgep1: 25925.59375
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 564: 
+SAgep3: 0
+Winner SAgep4: 49965.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 10034.5
+Winner is: p4
+
+Game 565: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 566: 
+Winner SAgep6: 59999.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 567: 
+SAgep5: 24425.3046875
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 35573.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 568: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 20883.0
+Winner Rival Agentp2: 28734.875
+SAgep3: 10380.0
+Winner is: p2
+
+Game 569: 
+Winner SAgep3: 53562.0
+SAgep4: 6436.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 570: 
+SAgep1: 0
+SAgep2: 17743.25
+Winner Rival Agentp3: 42254.40625
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 571: 
+SAgep6: 9348.0
+SAgep1: 0.0
+Winner Rival Agentp2: 50650.25
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 572: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 20235.0
+Rival Agentp3: 0
+Winner SAgep4: 39764.375
+Winner is: p4
+
+Game 573: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 2960.0
+Winner Rival Agentp2: 57040.0
+SAgep3: 0
+Winner is: p2
+
+Game 574: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Winner is: p1
+
+Game 575: 
+SAgep1: 10933.0
+Winner SAgep2: 39095.5
+Rival Agentp3: 0
+SAgep4: 9969.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 576: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.5625
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 577: 
+Winner SAgep5: 53084.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 6915.0
+Winner is: p5
+
+Game 578: 
+SAgep4: 0
+SAgep5: 9562.5
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 34847.0
+SAgep3: 15590.0
+Winner is: p2
+
+Game 579: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000
+SAgep2: 0
+Winner is: p1
+
+Game 580: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 581: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59998.0
+SAgep3: 0.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 582: 
+Winner SAgep5: 60000
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 583: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59998.0
+Winner is: p3
+
+Game 584: 
+SAgep3: 20520.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 39480.0
+SAgep2: 0
+Winner is: p1
+
+Game 585: 
+SAgep1: 213.0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59786.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Winner is: p4
+
+Game 586: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 14440.0
+Winner SAgep5: 45560.0
+Winner is: p5
+
+Game 587: 
+SAgep5: 0
+SAgep6: 16188.75
+Winner Rival Agentp1: 41781.0
+SAgep2: 0
+Rival Agentp3: 2030.0
+SAgep4: 0
+Winner is: p1
+
+Game 588: 
+SAgep4: 7652.0
+Winner SAgep5: 38030.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 14316.0
+Winner is: p5
+
+Game 589: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 590: 
+SAgep1: 0
+Winner SAgep2: 37398.0
+Rival Agentp3: 0
+SAgep4: 22600.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 591: 
+Winner SAgep6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 592: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 593: 
+Winner SAgep4: 60000.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 594: 
+Winner SAgep3: 59996.9052734375
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 595: 
+SAgep1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 596: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 597: 
+SAgep5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 598: 
+Winner SAgep4: 58028.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 1969.484375
+Winner is: p4
+
+Game 599: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 600: 
+Winner SAgep1: 50377.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 9622.5
+Winner is: p1
+
+Game 601: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59994.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 602: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 603: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Winner is: p3
+
+Game 604: 
+SAgep3: 0.0
+SAgep4: 4083.5
+Winner Rival Agentp5: 55913.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 605: 
+SAgep1: 11044.875
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 48954.5
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 606: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 10376.0
+Rival Agentp4: 0
+Winner SAgep5: 49619.5
+Winner is: p5
+
+Game 607: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 608: 
+SAgep4: 20002.5
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 39997.0
+Winner is: p3
+
+Game 609: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Winner is: p1
+
+Game 610: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Winner is: p5
+
+Game 611: 
+SAgep6: 0
+SAgep1: 10153.125
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 49846.0
+SAgep5: 0
+Winner is: p4
+
+Game 612: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 29105.8125
+Rival Agentp3: 0
+Winner SAgep4: 30890.5
+Winner is: p4
+
+Game 613: 
+SAgep4: 12.5
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59987.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 614: 
+SAgep3: 17493.90625
+SAgep4: 0
+Winner Rival Agentp5: 32958.90625
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 9546.5625
+Winner is: p5
+
+Game 615: 
+Winner SAgep1: 44490.5
+SAgep2: 15509.11328125
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 616: 
+Winner SAgep6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 617: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.625
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 618: 
+SAgep4: 0
+SAgep5: 9990.0
+Rival Agentp6: 0
+Winner SAgep1: 50010.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 619: 
+SAgep3: 11714.5
+Winner SAgep4: 39277.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 9006.25
+Winner is: p4
+
+Game 620: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59999.4375
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 621: 
+SAgep6: 23160.0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 36839.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 622: 
+SAgep5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 623: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 624: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Winner is: p2
+
+Game 625: 
+Winner SAgep1: 40530.0
+SAgep2: 19466.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 626: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 21524.0
+Rival Agentp4: 0
+Winner SAgep5: 38473.0
+Winner is: p5
+
+Game 627: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59999.0
+Winner is: p4
+
+Game 628: 
+SAgep4: 0
+Winner SAgep5: 60000
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 629: 
+SAgep3: 0
+SAgep4: 1219.25
+Rival Agentp5: 4442.0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 54334.75
+Winner is: p2
+
+Game 630: 
+SAgep1: 597.0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 40606.0
+Rival Agentp5: 0
+SAgep6: 18795.5
+Winner is: p4
+
+Game 631: 
+SAgep6: 14504.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 45493.0
+Winner is: p5
+
+Game 632: 
+SAgep5: 29554.75
+Winner SAgep6: 30442.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 633: 
+SAgep4: 28228.0
+Winner SAgep5: 31771.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 634: 
+SAgep3: 0.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59998.0
+Winner is: p2
+
+Game 635: 
+SAgep1: 0
+Winner SAgep2: 40060.0
+Rival Agentp3: 0
+SAgep4: 19940.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 636: 
+Winner SAgep6: 30043.0
+SAgep1: 18923.75
+Rival Agentp2: 0
+SAgep3: 11032.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 637: 
+SAgep5: 0
+Winner SAgep6: 59999.5
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 638: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.8046875
+Winner is: p3
+
+Game 639: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 57813.5625
+Rival Agentp1: 0
+SAgep2: 2185.0
+Winner is: p6
+
+Game 640: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 38865.0
+SAgep4: 21125.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 641: 
+SAgep6: 0
+SAgep1: 1938.75
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 41995.75
+SAgep5: 16065.0
+Winner is: p4
+
+Game 642: 
+SAgep5: 0
+SAgep6: 18894.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 41105.0
+Winner is: p4
+
+Game 643: 
+SAgep4: 17399.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 9782.5
+Rival Agentp2: 0
+Winner SAgep3: 32817.0
+Winner is: p3
+
+Game 644: 
+SAgep3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 645: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 40240.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 19760.0
+Winner is: p3
+
+Game 646: 
+Winner SAgep6: 40863.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 19136.25
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 647: 
+SAgep5: 17308.0
+SAgep6: 0
+Winner Rival Agentp1: 42691.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 648: 
+SAgep4: 8850.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 51150.0
+SAgep3: 0
+Winner is: p2
+
+Game 649: 
+Winner SAgep3: 59974.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 25.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 650: 
+SAgep1: 0.0
+SAgep2: 0
+Rival Agentp3: 0.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 59998.0
+Winner is: p6
+
+Game 651: 
+SAgep6: 8725.0
+SAgep1: 1908.75
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 49365.75
+SAgep5: 0
+Winner is: p4
+
+Game 652: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 653: 
+Winner SAgep4: 48301.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 11697.15625
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 654: 
+SAgep3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 655: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 39516.1875
+Rival Agentp5: 0
+SAgep6: 20483.0
+Winner is: p4
+
+Game 656: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 657: 
+Winner SAgep5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p5
+
+Game 658: 
+SAgep4: 1859.53125
+SAgep5: 0.0
+Rival Agentp6: 0
+Winner SAgep1: 58136.765625
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p1
+
+Game 659: 
+SAgep3: 0
+Winner SAgep4: 59840.0
+Rival Agentp5: 160.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 660: 
+Winner SAgep1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 661: 
+SAgep6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 662: 
+SAgep5: 4631.0
+SAgep6: 1668.125
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 53698.0
+SAgep4: 0
+Winner is: p3
+
+Game 663: 
+SAgep4: 0
+Winner SAgep5: 31992.0
+Rival Agentp6: 0
+SAgep1: 28006.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 664: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 6956.0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 53042.0
+Winner is: p2
+
+Game 665: 
+SAgep1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 666: 
+Winner SAgep6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 667: 
+SAgep5: 2465.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 57533.21484375
+Winner is: p4
+
+Game 668: 
+SAgep4: 7656.25
+SAgep5: 0
+Winner Rival Agentp6: 52343.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 669: 
+SAgep3: 0
+Winner SAgep4: 59999.5
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 670: 
+SAgep1: 5337.6875
+SAgep2: 0
+Winner Rival Agentp3: 54660.6875
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 671: 
+SAgep6: 0
+Winner SAgep1: 40148.0
+Rival Agentp2: 0
+SAgep3: 9922.5
+Rival Agentp4: 0
+SAgep5: 9928.0
+Winner is: p1
+
+Game 672: 
+SAgep5: 0
+SAgep6: 28005.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 31992.0
+Winner is: p4
+
+Game 673: 
+Winner SAgep4: 30081.703125
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 29917.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 674: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 48362.5
+SAgep2: 11637.5
+Winner is: p1
+
+Game 675: 
+SAgep1: 0
+Winner SAgep2: 40074.0
+Rival Agentp3: 0
+SAgep4: 19925.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 676: 
+Winner SAgep6: 44620.0
+SAgep1: 0
+Rival Agentp2: 15380.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 677: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 678: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 54150.0
+SAgep3: 5850.0
+Winner is: p2
+
+Game 679: 
+Winner SAgep3: 59998.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p3
+
+Game 680: 
+SAgep1: 20085.4375
+Winner SAgep2: 39913.75
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 681: 
+SAgep6: 0
+SAgep1: 2776.0
+Winner Rival Agentp2: 57222.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0.0
+Winner is: p2
+
+Game 682: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 683: 
+SAgep4: 10194.84375
+SAgep5: 0
+Winner Rival Agentp6: 49805.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 684: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 685: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 2686.25
+Winner Rival Agentp5: 57312.75
+SAgep6: 0
+Winner is: p5
+
+Game 686: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 50060.0
+SAgep3: 9940.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 687: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 688: 
+SAgep4: 0
+Winner SAgep5: 59996.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 689: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59997.90625
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 690: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59999.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Winner is: p4
+
+Game 691: 
+SAgep6: 0
+SAgep1: 29102.0
+Winner Rival Agentp2: 30897.0625
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 692: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p1
+
+Game 693: 
+SAgep4: 0
+SAgep5: 29253.0
+Rival Agentp6: 0
+Winner SAgep1: 30746.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 694: 
+SAgep3: 0.0
+Winner SAgep4: 29214.375
+Rival Agentp5: 0
+SAgep6: 2944.75
+Rival Agentp1: 26396.171875
+SAgep2: 1441.0
+Winner is: p4
+
+Game 695: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 50290.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 9710.0
+Winner is: p3
+
+Game 696: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 31095.0
+SAgep3: 7410.0
+Rival Agentp4: 0
+SAgep5: 21495.0
+Winner is: p2
+
+Game 697: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 698: 
+Winner SAgep4: 60000
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 699: 
+SAgep3: 0
+Winner SAgep4: 39230.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 20770.0
+SAgep2: 0
+Winner is: p4
+
+Game 700: 
+SAgep1: 9468.75
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 50530.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 701: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 59998.75
+SAgep5: 0
+Winner is: p4
+
+Game 702: 
+SAgep5: 0.0
+SAgep6: 3717.5
+Winner Rival Agentp1: 47895.5
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 8385.0
+Winner is: p1
+
+Game 703: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 704: 
+SAgep3: 47.5
+Winner SAgep4: 28653.75
+Rival Agentp5: 27808.75
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 3490.0
+Winner is: p4
+
+Game 705: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Winner is: p5
+
+Game 706: 
+Winner SAgep6: 33405.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 26595.0
+SAgep5: 0
+Winner is: p6
+
+Game 707: 
+SAgep5: 0
+Winner SAgep6: 53492.14794921875
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 6506.30859375
+Winner is: p6
+
+Game 708: 
+SAgep4: 0
+Winner SAgep5: 60000
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 709: 
+SAgep3: 22022.0
+Winner SAgep4: 37977.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 710: 
+SAgep1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 711: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 712: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 10830.0
+Rival Agentp3: 0
+Winner SAgep4: 49170.0
+Winner is: p4
+
+Game 713: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 714: 
+Winner SAgep3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 715: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59998.5
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 716: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 717: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59980
+SAgep4: 0
+Winner is: p3
+
+Game 718: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 19290.0
+Rival Agentp2: 0
+Winner SAgep3: 40709.0
+Winner is: p3
+
+Game 719: 
+SAgep3: 0.0
+SAgep4: 1709.90625
+Winner Rival Agentp5: 58288.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 720: 
+Winner SAgep1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 721: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 722: 
+Winner SAgep5: 43521.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 16474.0
+Winner is: p5
+
+Game 723: 
+SAgep4: 6873.125
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 53126.0
+SAgep3: 0
+Winner is: p2
+
+Game 724: 
+SAgep3: 0
+Winner SAgep4: 59510.0
+Rival Agentp5: 490.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 725: 
+SAgep1: 0.0
+SAgep2: 9034.375
+Rival Agentp3: 0
+Winner SAgep4: 50963.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 726: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 727: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 18800.0
+Rival Agentp3: 0
+Winner SAgep4: 41189.0
+Winner is: p4
+
+Game 728: 
+SAgep4: 0.0
+SAgep5: 2314.8828125
+Rival Agentp6: 0
+Winner SAgep1: 57682.58984375
+Rival Agentp2: 0.0
+SAgep3: 0.0
+Winner is: p1
+
+Game 729: 
+SAgep3: 0.0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 730: 
+SAgep1: 2350.0
+SAgep2: 0
+Winner Rival Agentp3: 57648.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 731: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 732: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 733: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 49659.0
+Rival Agentp2: 0
+SAgep3: 10340.0
+Winner is: p1
+
+Game 734: 
+SAgep3: 3958.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 56040.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 735: 
+SAgep1: 0
+Winner SAgep2: 59940.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 60.0
+Winner is: p2
+
+Game 736: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 737: 
+SAgep5: 0.0
+SAgep6: 13240.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 46758.0
+Winner is: p4
+
+Game 738: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59998.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 739: 
+SAgep3: 14932.5
+SAgep4: 20024.5
+Rival Agentp5: 0
+Winner SAgep6: 25041.875
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 740: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59998.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 741: 
+SAgep6: 0.0
+SAgep1: 5926.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 54072.0
+Winner is: p5
+
+Game 742: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59998.6171875
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 743: 
+Winner SAgep4: 58923.3203125
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 1072.96875
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 744: 
+SAgep3: 0.0
+Winner SAgep4: 32353.0
+Rival Agentp5: 0
+SAgep6: 27644.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 745: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 746: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59999.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 747: 
+Winner SAgep5: 59997.375
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 748: 
+SAgep4: 20492.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 39507.75
+Winner is: p3
+
+Game 749: 
+SAgep3: 2981.875
+SAgep4: 0
+Winner Rival Agentp5: 57018.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 750: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000
+SAgep6: 0
+Winner is: p5
+
+Game 751: 
+SAgep6: 1636.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 8505.4375
+Rival Agentp4: 0
+Winner SAgep5: 49855.0
+Winner is: p5
+
+Game 752: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 753: 
+Winner SAgep4: 59999.0
+SAgep5: 0.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 754: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 57727.5
+SAgep6: 2271.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 755: 
+Winner SAgep1: 39676.9375
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 20322.0
+Winner is: p1
+
+Game 756: 
+Winner SAgep6: 50594.5
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 9405.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 757: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 59986.5
+SAgep4: 10.15625
+Winner is: p3
+
+Game 758: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 759: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 760: 
+Winner SAgep1: 59998.1875
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 761: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 762: 
+Winner SAgep5: 50182.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 9816.25
+Winner is: p5
+
+Game 763: 
+SAgep4: 9907.5
+SAgep5: 9825.0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 40267.0
+SAgep3: 0
+Winner is: p2
+
+Game 764: 
+SAgep3: 0
+Winner SAgep4: 53191.1171875
+Rival Agentp5: 0
+SAgep6: 6807.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 765: 
+SAgep1: 2363.1875
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 8286.0
+Rival Agentp5: 0
+Winner SAgep6: 49350.0
+Winner is: p6
+
+Game 766: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59998.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 767: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 17660.0
+Winner SAgep4: 42340.0
+Winner is: p4
+
+Game 768: 
+SAgep4: 0
+Winner SAgep5: 50014.0
+Rival Agentp6: 0
+SAgep1: 9985.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 769: 
+SAgep3: 0
+SAgep4: 28604.0
+Winner Rival Agentp5: 31394.65625
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 770: 
+Winner SAgep1: 59192.15625
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 803.9765625
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 771: 
+SAgep6: 27418.0
+SAgep1: 0
+Rival Agentp2: 1810.75
+SAgep3: 0
+Winner Rival Agentp4: 30768.5
+SAgep5: 0
+Winner is: p4
+
+Game 772: 
+SAgep5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 773: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 30276.0
+Rival Agentp2: 0
+SAgep3: 29719.0
+Winner is: p1
+
+Game 774: 
+SAgep3: 9938.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 50061.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 775: 
+SAgep1: 18517.0
+Winner SAgep2: 41482.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 776: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 777: 
+SAgep5: 19879.0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 40120.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 778: 
+SAgep4: 0.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Winner is: p2
+
+Game 779: 
+SAgep3: 0
+SAgep4: 718.625
+Rival Agentp5: 0
+Winner SAgep6: 36526.75
+Rival Agentp1: 0
+SAgep2: 22753.0
+Winner is: p6
+
+Game 780: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner Rival Agentp5: 53735.75
+SAgep6: 6263.75
+Winner is: p5
+
+Game 781: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59999.25
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 782: 
+SAgep5: 8711.5625
+Winner SAgep6: 51287.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 783: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 38516.4375
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 21483.0
+Winner is: p6
+
+Game 784: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 50743.6171875
+Rival Agentp1: 0
+SAgep2: 9254.65625
+Winner is: p6
+
+Game 785: 
+SAgep1: 0
+SAgep2: 9117.5
+Winner Rival Agentp3: 50882.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 786: 
+Winner SAgep6: 59997.556640625
+SAgep1: 0.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 787: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Winner is: p4
+
+Game 788: 
+SAgep4: 0
+SAgep5: 25622.5
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 34367.0
+SAgep3: 0
+Winner is: p2
+
+Game 789: 
+Winner SAgep3: 59997.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0.0
+SAgep2: 0.0
+Winner is: p3
+
+Game 790: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 39308.25
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 20691.0
+Winner is: p3
+
+Game 791: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 792: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 793: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 49332.5
+SAgep3: 10667.5
+Winner is: p2
+
+Game 794: 
+SAgep3: 15603.0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 44395.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 795: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Winner is: p5
+
+Game 796: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59996.875
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 797: 
+SAgep5: 11340.0
+SAgep6: 0
+Rival Agentp1: 23564.0
+Winner SAgep2: 25093.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 798: 
+SAgep4: 0
+Winner SAgep5: 60000.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 799: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Winner is: p2
+
+Game 800: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner Rival Agentp5: 59998.5
+SAgep6: 0
+Winner is: p5
+
+Game 801: 
+Winner SAgep6: 59999.34375
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 802: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 9335.0
+Rival Agentp3: 23260.0
+Winner SAgep4: 27405.0
+Winner is: p4
+
+Game 803: 
+SAgep4: 29284.375
+SAgep5: 0
+Winner Rival Agentp6: 30715.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 804: 
+SAgep3: 0
+SAgep4: 68.75
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59930.25
+SAgep2: 0
+Winner is: p1
+
+Game 805: 
+SAgep1: 12332.8046875
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 47665.0
+Winner is: p6
+
+Game 806: 
+SAgep6: 8862.03125
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 51137.0
+SAgep5: 0
+Winner is: p4
+
+Game 807: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 11022.0
+Winner SAgep4: 48977.0
+Winner is: p4
+
+Game 808: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 59999.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 809: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Winner is: p1
+
+Game 810: 
+SAgep1: 0
+SAgep2: 3291.16015625
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 56706.16015625
+Winner is: p6
+
+Game 811: 
+SAgep6: 6996.53515625
+Winner SAgep1: 53001.8447265625
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 812: 
+Winner SAgep5: 59999.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 813: 
+Winner SAgep4: 50011.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 9983.34375
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner is: p4
+
+Game 814: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59998.0
+Winner is: p2
+
+Game 815: 
+SAgep1: 8490.0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 51510.0
+Winner is: p6
+
+Game 816: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 817: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 818: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 25310.0
+Winner Rival Agentp2: 34690.0
+SAgep3: 0
+Winner is: p2
+
+Game 819: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59998.0
+Winner is: p2
+
+Game 820: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59998.875
+SAgep6: 0
+Winner is: p5
+
+Game 821: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 7041.25
+Winner Rival Agentp4: 52958.25
+SAgep5: 0
+Winner is: p4
+
+Game 822: 
+SAgep5: 8606.9921875
+SAgep6: 0
+Rival Agentp1: 9681.2421875
+SAgep2: 0.0
+Rival Agentp3: 0
+Winner SAgep4: 41710.4921875
+Winner is: p4
+
+Game 823: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Winner is: p3
+
+Game 824: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 825: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Winner is: p5
+
+Game 826: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 53027.0
+SAgep5: 6972.5
+Winner is: p4
+
+Game 827: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 26912.578125
+Rival Agentp3: 0
+Winner SAgep4: 33087.0
+Winner is: p4
+
+Game 828: 
+Winner SAgep4: 33098.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 26901.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 829: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p5
+
+Game 830: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 831: 
+SAgep6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 832: 
+SAgep5: 0.0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 833: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 834: 
+Winner SAgep3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 835: 
+SAgep1: 0
+Winner SAgep2: 56531.0
+Rival Agentp3: 0
+SAgep4: 3467.125
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 836: 
+SAgep6: 19828.75
+Winner SAgep1: 30125.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 10045.25
+Winner is: p1
+
+Game 837: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 838: 
+SAgep4: 0.0
+Winner SAgep5: 59998.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 839: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 58880.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 1120.0
+Winner is: p5
+
+Game 840: 
+SAgep1: 0
+SAgep2: 10373.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 49626.5625
+Winner is: p6
+
+Game 841: 
+SAgep6: 1560.0
+SAgep1: 0
+Winner Rival Agentp2: 58440.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 842: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 39170.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 20830.0
+Winner is: p1
+
+Game 843: 
+SAgep4: 19733.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 19556.5625
+Rival Agentp2: 0
+Winner SAgep3: 20709.0
+Winner is: p3
+
+Game 844: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 845: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 846: 
+SAgep6: 0
+Winner SAgep1: 59996.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0.0
+Winner is: p1
+
+Game 847: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 22650.0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 37350.0
+Winner is: p4
+
+Game 848: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 59998.625
+SAgep3: 0
+Winner is: p2
+
+Game 849: 
+Winner SAgep3: 50337.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 9662.5
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 850: 
+SAgep1: 0
+Winner SAgep2: 30377.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 29622.5
+Winner is: p2
+
+Game 851: 
+SAgep6: 0
+Winner SAgep1: 38987.9375
+Rival Agentp2: 0
+SAgep3: 21010.0625
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 852: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59995.65625
+Winner is: p4
+
+Game 853: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 25490.0
+Rival Agentp2: 0
+Winner SAgep3: 34507.0
+Winner is: p3
+
+Game 854: 
+SAgep3: 11202.5
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 48797.5
+SAgep2: 0
+Winner is: p1
+
+Game 855: 
+Winner SAgep1: 60000.0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 856: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0.0
+Winner Rival Agentp4: 59999.1875
+SAgep5: 0
+Winner is: p4
+
+Game 857: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 41040.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 18960.0
+Winner is: p1
+
+Game 858: 
+Winner SAgep4: 48932.0
+SAgep5: 1010.0
+Rival Agentp6: 0
+SAgep1: 230
+Rival Agentp2: 0
+SAgep3: 9827.0
+Winner is: p4
+
+Game 859: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59245.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 755.0
+Winner is: p5
+
+Game 860: 
+Winner SAgep1: 59999.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 861: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 862: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 863: 
+SAgep4: 29507.5
+SAgep5: 0
+Winner Rival Agentp6: 30492.5
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 864: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 865: 
+SAgep1: 0
+Winner SAgep2: 50106.75
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 9892.5
+Winner is: p2
+
+Game 866: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 867: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000.0
+SAgep4: 0
+Winner is: p3
+
+Game 868: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 869: 
+SAgep3: 0
+SAgep4: 3607.5
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 51010.0
+SAgep2: 5382.5
+Winner is: p1
+
+Game 870: 
+Winner SAgep1: 59126.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 872.5
+Winner is: p1
+
+Game 871: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 5805.23828125
+Rival Agentp4: 0
+Winner SAgep5: 54192.0
+Winner is: p5
+
+Game 872: 
+SAgep5: 0
+Winner SAgep6: 46893.0
+Rival Agentp1: 0
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 13105.0
+Winner is: p6
+
+Game 873: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 59998.375
+SAgep1: 0.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 874: 
+SAgep3: 29999.0
+Winner SAgep4: 29999.5
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 875: 
+SAgep1: 0
+SAgep2: 5821.0
+Winner Rival Agentp3: 52291.125
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 1886.375
+Winner is: p3
+
+Game 876: 
+Winner SAgep6: 59995.0
+SAgep1: 0.0
+Rival Agentp2: 0
+SAgep3: 0.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 877: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 878: 
+SAgep4: 2254.0
+SAgep5: 0.0
+Rival Agentp6: 0
+Winner SAgep1: 57742.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 879: 
+SAgep3: 0
+SAgep4: 8170.0
+Rival Agentp5: 0
+Winner SAgep6: 51830.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 880: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 56005.0
+SAgep6: 3995.0
+Winner is: p5
+
+Game 881: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 60000.0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p2
+
+Game 882: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 38330.1328125
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 21668.0
+Winner is: p1
+
+Game 883: 
+SAgep4: 12397.0
+SAgep5: 0
+Winner Rival Agentp6: 44586.0
+SAgep1: 0
+Rival Agentp2: 3015.5
+SAgep3: 0
+Winner is: p6
+
+Game 884: 
+Winner SAgep3: 60000.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 885: 
+SAgep1: 26059.0
+Winner SAgep2: 33939.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 886: 
+SAgep6: 0
+SAgep1: 12468.125
+Rival Agentp2: 0
+Winner SAgep3: 47531.125
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 887: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 37378.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 22621.0
+Winner is: p1
+
+Game 888: 
+SAgep4: 7547.0
+SAgep5: 0
+Winner Rival Agentp6: 52451.5
+SAgep1: 0.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 889: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Winner is: p1
+
+Game 890: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.0
+SAgep6: 0
+Winner is: p5
+
+Game 891: 
+SAgep6: 19926.5
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 40072.25
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 892: 
+SAgep5: 0
+Winner SAgep6: 40612.0
+Rival Agentp1: 0
+SAgep2: 19384.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 893: 
+SAgep4: 6181.25
+SAgep5: 7740.0
+Rival Agentp6: 0
+SAgep1: 0.0
+Winner Rival Agentp2: 46078.75
+SAgep3: 0
+Winner is: p2
+
+Game 894: 
+Winner SAgep3: 54873.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 5125.96875
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 895: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Winner is: p4
+
+Game 896: 
+SAgep6: 0.0
+SAgep1: 10058.5
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 49939.013671875
+SAgep5: 0
+Winner is: p4
+
+Game 897: 
+SAgep5: 0
+Winner SAgep6: 50796.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 9203.125
+Winner is: p6
+
+Game 898: 
+Winner SAgep4: 36750.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 23250.0
+SAgep3: 0
+Winner is: p4
+
+Game 899: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Winner is: p2
+
+Game 900: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 901: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 19080.0
+Winner Rival Agentp4: 40920.0
+SAgep5: 0
+Winner is: p4
+
+Game 902: 
+SAgep5: 0
+Winner SAgep6: 40082.0
+Rival Agentp1: 0
+SAgep2: 18561.625
+Rival Agentp3: 0
+SAgep4: 1353.0
+Winner is: p6
+
+Game 903: 
+SAgep4: 2550.0
+Winner SAgep5: 57450.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 904: 
+SAgep3: 0
+Winner SAgep4: 59999.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p4
+
+Game 905: 
+SAgep1: 19386.0
+SAgep2: 0
+Winner Rival Agentp3: 40612.875
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 906: 
+SAgep6: 0
+Winner SAgep1: 39915.0
+Rival Agentp2: 0
+SAgep3: 20084.5
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 907: 
+Winner SAgep5: 40071.75
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 90.0
+SAgep4: 19836.0
+Winner is: p5
+
+Game 908: 
+SAgep4: 0
+Winner SAgep5: 59996.0546875
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 909: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 910: 
+Winner SAgep1: 54324.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 5675.0
+SAgep6: 0
+Winner is: p1
+
+Game 911: 
+SAgep6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 912: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 59999.625
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 913: 
+SAgep4: 0
+SAgep5: 0
+Winner Rival Agentp6: 60000
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 914: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Winner is: p1
+
+Game 915: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59998.5
+SAgep6: 0
+Winner is: p5
+
+Game 916: 
+Winner SAgep6: 60000.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 917: 
+SAgep5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 59998.0
+Winner is: p4
+
+Game 918: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 919: 
+SAgep3: 0
+SAgep4: 9705.625
+Winner Rival Agentp5: 50294.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 920: 
+SAgep1: 0
+SAgep2: 0.0
+Rival Agentp3: 0
+Winner SAgep4: 59999.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 921: 
+SAgep6: 4320.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 55680.0
+SAgep5: 0
+Winner is: p4
+
+Game 922: 
+SAgep5: 0
+SAgep6: 951.09375
+Rival Agentp1: 0
+SAgep2: 10204.0576171875
+Rival Agentp3: 0
+Winner SAgep4: 48842.41015625
+Winner is: p4
+
+Game 923: 
+Winner SAgep4: 41374.1875
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 13588.0
+Rival Agentp2: 0
+SAgep3: 5036.328125
+Winner is: p4
+
+Game 924: 
+SAgep3: 0
+Winner SAgep4: 59989.0
+Rival Agentp5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 925: 
+SAgep1: 0
+Winner SAgep2: 59997.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 926: 
+SAgep6: 0
+Winner SAgep1: 60000
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 927: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 928: 
+SAgep4: 19425.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 40575.0
+SAgep3: 0
+Winner is: p2
+
+Game 929: 
+SAgep3: 0
+Winner SAgep4: 30427.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 29569.5
+Winner is: p4
+
+Game 930: 
+SAgep1: 1148.75
+SAgep2: 0.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 58850.0
+SAgep6: 0
+Winner is: p5
+
+Game 931: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 7630.0
+Rival Agentp4: 0
+Winner SAgep5: 52369.0
+Winner is: p5
+
+Game 932: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 60000.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 933: 
+SAgep4: 0.0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59998.0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 934: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 935: 
+SAgep1: 19804.0
+Winner SAgep2: 40194.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 936: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 59998.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 937: 
+SAgep5: 0
+Winner SAgep6: 59998.1484375
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 938: 
+SAgep4: 0
+Winner SAgep5: 38866.875
+Rival Agentp6: 0
+SAgep1: 0.0
+Rival Agentp2: 21132.0
+SAgep3: 0
+Winner is: p5
+
+Game 939: 
+SAgep3: 0.0
+SAgep4: 0
+Winner Rival Agentp5: 59999.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 940: 
+SAgep1: 0
+SAgep2: 0
+Winner Rival Agentp3: 60000
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p3
+
+Game 941: 
+SAgep6: 16350.0859375
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 43646.4296875
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 942: 
+Winner SAgep5: 59831.78125
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 167.625
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p5
+
+Game 943: 
+SAgep4: 0
+Winner SAgep5: 59990.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 10.0
+Winner is: p5
+
+Game 944: 
+Winner SAgep3: 44882.0
+SAgep4: 0
+Rival Agentp5: 15114.171875
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 945: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000.0
+Winner is: p6
+
+Game 946: 
+SAgep6: 20192.0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 39807.5
+Winner is: p5
+
+Game 947: 
+SAgep5: 0
+SAgep6: 0
+Winner Rival Agentp1: 59998.9375
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 948: 
+SAgep4: 0
+SAgep5: 21245.375
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 38754.375
+Winner is: p3
+
+Game 949: 
+SAgep3: 18299.375
+Winner SAgep4: 41130.34375
+Rival Agentp5: 0
+SAgep6: 570.0
+Rival Agentp1: 0.0
+SAgep2: 0
+Winner is: p4
+
+Game 950: 
+SAgep1: 0
+SAgep2: 19684.3125
+Rival Agentp3: 0
+SAgep4: 2184.0
+Rival Agentp5: 0
+Winner SAgep6: 38129.0
+Winner is: p6
+
+Game 951: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 952: 
+SAgep5: 0
+SAgep6: 13854.0
+Rival Agentp1: 0
+Winner SAgep2: 46144.5
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 953: 
+Winner SAgep4: 59999.125
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p4
+
+Game 954: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 60000.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 955: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 51810.0
+SAgep6: 8190.0
+Winner is: p5
+
+Game 956: 
+SAgep6: 0
+Winner SAgep1: 60000.0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0.0
+Winner is: p1
+
+Game 957: 
+SAgep5: 0
+Winner SAgep6: 39360.0
+Rival Agentp1: 20640.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 958: 
+SAgep4: 10161.0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 49837.5
+SAgep3: 0
+Winner is: p2
+
+Game 959: 
+SAgep3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0.0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p4
+
+Game 960: 
+SAgep1: 8760.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 51230.0
+SAgep6: 0
+Winner is: p5
+
+Game 961: 
+SAgep6: 0
+SAgep1: 8590.0
+Winner Rival Agentp2: 38290.0
+SAgep3: 600.0
+Rival Agentp4: 0.0
+SAgep5: 12520.0
+Winner is: p2
+
+Game 962: 
+SAgep5: 0
+SAgep6: 28549.0625
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 31449.0
+Winner is: p4
+
+Game 963: 
+SAgep4: 0
+Winner SAgep5: 59999.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 964: 
+SAgep3: 0
+SAgep4: 17152.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0.0
+Winner SAgep2: 42846.0
+Winner is: p2
+
+Game 965: 
+SAgep1: 10085.0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 49915.0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p4
+
+Game 966: 
+SAgep6: 0.0
+SAgep1: 22.0
+Rival Agentp2: 0
+Winner SAgep3: 59977.0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p3
+
+Game 967: 
+SAgep5: 0
+SAgep6: 17967.0
+Winner Rival Agentp1: 42030.625
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 968: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 59996.5703125
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p1
+
+Game 969: 
+SAgep3: 0
+SAgep4: 0
+Rival Agentp5: 12775.125
+Winner SAgep6: 47223.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p6
+
+Game 970: 
+Winner SAgep1: 59998.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 971: 
+Winner SAgep6: 60000
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p6
+
+Game 972: 
+SAgep5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 60000.0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p2
+
+Game 973: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+Winner SAgep3: 60000.0
+Winner is: p3
+
+Game 974: 
+SAgep3: 18129.0
+SAgep4: 8303.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+Winner SAgep2: 33565.5
+Winner is: p2
+
+Game 975: 
+Winner SAgep1: 60000
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p1
+
+Game 976: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+Winner SAgep5: 60000.0
+Winner is: p5
+
+Game 977: 
+SAgep5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+Winner SAgep4: 60000.0
+Winner is: p4
+
+Game 978: 
+SAgep4: 19815.0
+SAgep5: 0
+Winner Rival Agentp6: 40184.5
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p6
+
+Game 979: 
+SAgep3: 0
+Winner SAgep4: 60000.0
+Rival Agentp5: 0
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0.0
+Winner is: p4
+
+Game 980: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+Winner SAgep6: 60000
+Winner is: p6
+
+Game 981: 
+SAgep6: 21498.203125
+Winner SAgep1: 38500.703125
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 0
+Winner is: p1
+
+Game 982: 
+Winner SAgep5: 59998.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p5
+
+Game 983: 
+SAgep4: 0
+SAgep5: 0.0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 54835.59375
+SAgep3: 5162.1875
+Winner is: p2
+
+Game 984: 
+SAgep3: 0
+SAgep4: 0
+Winner Rival Agentp5: 59999.5
+SAgep6: 0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p5
+
+Game 985: 
+SAgep1: 29170.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner Rival Agentp5: 30830.0
+SAgep6: 0
+Winner is: p5
+
+Game 986: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Rival Agentp4: 18785.75
+Winner SAgep5: 41213.75
+Winner is: p5
+
+Game 987: 
+SAgep5: 0
+Winner SAgep6: 60000
+Rival Agentp1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p6
+
+Game 988: 
+SAgep4: 0
+Winner SAgep5: 60000.0
+Rival Agentp6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner is: p5
+
+Game 989: 
+Winner SAgep3: 34314.0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 25683.0
+Rival Agentp1: 0
+SAgep2: 0
+Winner is: p3
+
+Game 990: 
+SAgep1: 0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Rival Agentp5: 0
+Winner SAgep6: 59997.0625
+Winner is: p6
+
+Game 991: 
+SAgep6: 0
+SAgep1: 0
+Winner Rival Agentp2: 39129.6875
+SAgep3: 0
+Rival Agentp4: 0
+SAgep5: 20870.0
+Winner is: p2
+
+Game 992: 
+SAgep5: 0
+SAgep6: 9650.0
+Winner Rival Agentp1: 50350.0
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0
+Winner is: p1
+
+Game 993: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+Winner SAgep1: 46113.58984375
+Rival Agentp2: 0
+SAgep3: 13884.0
+Winner is: p1
+
+Game 994: 
+SAgep3: 4632.5
+SAgep4: 0
+Winner Rival Agentp5: 43877.0
+SAgep6: 710.0
+Rival Agentp1: 0
+SAgep2: 10780.0
+Winner is: p5
+
+Game 995: 
+SAgep1: 0
+Winner SAgep2: 59999.0
+Rival Agentp3: 0
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0
+Winner is: p2
+
+Game 996: 
+SAgep6: 0
+SAgep1: 0
+Rival Agentp2: 0
+SAgep3: 0
+Winner Rival Agentp4: 60000.0
+SAgep5: 0
+Winner is: p4
+
+Game 997: 
+SAgep5: 26152.890625
+SAgep6: 0
+Winner Rival Agentp1: 33846.109375
+SAgep2: 0
+Rival Agentp3: 0
+SAgep4: 0.0
+Winner is: p1
+
+Game 998: 
+SAgep4: 0
+SAgep5: 0
+Rival Agentp6: 0
+SAgep1: 0
+Winner Rival Agentp2: 50512.0
+SAgep3: 9487.5
+Winner is: p2
+
+Game 999: 
+Winner SAgep3: 36539.5
+SAgep4: 0
+Rival Agentp5: 0
+SAgep6: 0.0
+Rival Agentp1: 0
+SAgep2: 23459.0
+Winner is: p3
+
