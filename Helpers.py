@@ -20,6 +20,7 @@ class HelperClass:
         self.file_path = ""
         with open("cardMap.dict", "rb") as file:
             self.cardMap = pickle.loads(file.read())
+            file.close()
 
     def reset(self):
         self.p1_final_stack = 0
@@ -29,12 +30,10 @@ class HelperClass:
         self.finalRound = ""
 
     def update_tree(self, tree, tree_name):
-        try:
-            with open(tree_name, 'wb') as file:
-                file.write(pickle.dumps(tree))
-                file.close()
-        except:
-            self.update_tree(tree, tree_name)
+        with open(tree_name, 'wb') as file:
+            file.write(pickle.dumps(tree))
+            file.close()
+        self.reset()
 
     def agentTreeUpdater(self, move, hole_card, round_state, name, cards):
         action_history = round_state["action_histories"]
@@ -44,16 +43,16 @@ class HelperClass:
         for each in round_state["seats"]:
             index = round_state["seats"].index(each)
             playerIdMap[each["uuid"]] = round_state["seats"][index - rotation_value]["name"]
-        small_blind = playerIdMap.get(action_history["preflop"][0]["uuid"])
+        # small_blind = playerIdMap.get(action_history["preflop"][0]["uuid"])
         # if round_state["street"] == "preflop":
-        #     self.tree, self.file_path = self.information_abstracter.get_tree_details(hole_card, "preflop",
+        # self.tree, self.file_path = self.information_abstracter.get_tree_details(hole_card, "preflop",
         #                                                                       small_blind)
         stacks = {}
         for each in playerIdMap.values():
             stacks[each] = 10000
         pot = 0
         self.tree = self.traverseAndUpdateAgentMove(playerIdMap, self.tree, action_history, cards, move, pot, stacks)
-        #self.update_tree(actionsTree, file_path)
+        # self.update_tree(self.tree, self.file_path, hole_card, small_blind)
         return self.tree, self.file_path
 
     def traverseAndUpdateAgentMove(self, playerIdMap, actionTree, action_history, cardsHist, move, pot_val, stacks):
@@ -169,11 +168,10 @@ class HelperClass:
         pot_value = 0
         previous_amount = 0
         small_blind = playerIdMap.get(action_history["preflop"][0]["uuid"])
-        #actionsTree, file_path = self.information_abstracter.get_tree_details(hole_cards, "preflop",
-                                                                              #small_blind)
+        # self.tree, self.file_path = self.information_abstracter.get_tree_details(hole_cards, "preflop",
+        #                                                                       small_blind)
         self.tree = self.traverseAndUpdateVal(self.tree, action_history, playerIdMap, cardsHist, net_val, final_round, final_move, pot_value, stacks, previous_amount)
         self.update_tree(self.tree, self.file_path)
-        self.reset()
 
     def traverseAndUpdateVal(self, tree, action_history, playerIdMap, cardsHist, net_val, final_round, final_move, pot_value, stacks, previous_amount):
         if action_history:
@@ -253,7 +251,7 @@ class HelperClass:
                         tree[playerId][key][moveId][1][moveId] = self.traverseAndUpdateVal(tree[playerId][key][moveId][1][moveId],action_history,playerIdMap,cardsHist, net_val, final_round, final_move, pot_value, stacks, previous_amount)
         return tree
 
-    def traverseAndReturnExploredActions(self, round_state, name, hole_card, cardsHist):
+    def traverseAndReturnExploredActions(self, round_state, name, hole_card, cardsHist, version):
         action_history = round_state["action_histories"]
         rotation_value = self.rotation_dict.get(name)
         playerIdMap = {}
@@ -263,12 +261,12 @@ class HelperClass:
         small_blind = playerIdMap.get(action_history["preflop"][0]["uuid"])
 
         if round_state["street"] == "preflop":
-            for each in round_state["seats"]:
-                self.traverser_stacks[round_state["seats"][index - rotation_value]["name"]] = each["stack"]
+            for i, each in enumerate(round_state["seats"]):
+                self.traverser_stacks[round_state["seats"][i - rotation_value]["name"]] = each["stack"]
 
         if round_state["street"] == "preflop":
             self.tree, self.file_path = self.information_abstracter.get_tree_details(hole_card, "preflop",
-                                                                              small_blind)
+                                                                              small_blind, version)
         pots = 0
         return self.traverser(self.tree, action_history, playerIdMap, cardsHist, pots, self.traverser_stacks)
 
@@ -295,7 +293,7 @@ class HelperClass:
                 stacks[playerId] -= moves[0]["paid"]
                 pots += moves[0]["paid"]
             elif moves[0]["action"] == "BIGBLIND" or moves[0]["action"] == "SMALLBLIND":
-                stacks[playerId] -= moves[0]["amount"]
+                # stacks[playerId] -= moves[0]["amount"]
                 pots += moves[0]["amount"]
             if playerId != "p1":
                 del action_history[round][0]

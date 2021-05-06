@@ -6,17 +6,21 @@ Created on Sun Feb 28 00:38:04 2021
 """
 import math
 import random
+from threading import Timer
 import numpy as np
 from pypokerengine.players import BasePokerPlayer
-
 from ActionAbstracter import ActionAbstracter
 from Helpers import HelperClass
+from pypokerengine.engine.hand_evaluator import HandEvaluator
+from pypokerengine.players import BasePokerPlayer
+from pypokerengine.utils.card_utils import _pick_unused_card, _fill_community_card, gen_cards
 import copy
 
 
 class Agent(BasePokerPlayer):
-    def __init__(self, name="p1"):
+    def __init__(self, name="p1", version='latest'):
         self.name = name
+        self.version = version
         self.tree = {}
         self.cardHist = {}
         self.helper = HelperClass()
@@ -31,9 +35,9 @@ class Agent(BasePokerPlayer):
 
     #  we define the logic to make an action through this method. (so this method would be the core of your AI)
     def declare_action(self, valid_actions, hole_card, round_state):
-        action, amount = self.train(valid_actions, hole_card, round_state)
+        # action, amount = self.train(valid_actions, hole_card, round_state)
         # print(self.name, "-----" ,round_state)
-        # action, amount = self.test(valid_actions, hole_card, round_state)
+        action, amount = self.test(valid_actions, hole_card, round_state)
         return action, amount
 
     def test(self, valid_actions, hole_card, round_state):
@@ -59,7 +63,7 @@ class Agent(BasePokerPlayer):
             actionTuple[("raise", each)] = (0, 0)
         try:
             explored_actions = self.helper.traverseAndReturnExploredActions(self.round_state_eval, self.name,
-                                                                            hole_card, self.cardHist)
+                                                                            hole_card, self.cardHist, self.version)
 
             if round_state["street"] == "preflop":
                 explored_actions = explored_actions["p1"]
@@ -68,6 +72,12 @@ class Agent(BasePokerPlayer):
                 explored_actions = explored_actions["p1"][key]
         except:
             explored_actions = {}
+            with open("test.txt", "a") as f:
+                f.write("No actions played yet: " + self.name + str(hole_card) + str(self.cardHist) + "\n")
+                f.close()
+            # print("No actions played yet", self.name, hole_card, self.cardHist)
+        # if len(explored_actions) == 0:
+        #     return self.mcts_search(hole_card, round_state, valid_actions)
         explored_actions_tuple = []
         if explored_actions and len(explored_actions) > 0:
             for each in explored_actions.keys():
@@ -94,11 +104,14 @@ class Agent(BasePokerPlayer):
             for e in actionTuple.items():
                 if e[0][0] == each[0][0] and each[0][0] != "raise":
                     actionTuple[e[0]] = each[1]
+                    break
                 elif e[0] == each[0] and each[0][0] == "raise":
                     actionTuple[each[0]] = each[1]
+                    break
                 elif each[0][0] == "call" and each[0][1] > stack_val:
                     del explored_actions_tuple[each]
-        best_move = self.action_picker(actionTuple, c=0.0001)
+                    break
+        best_move = self.action_picker(actionTuple, c=0.0, replacement = 0)
         best_val = best_move[1]
         if best_move[0] == "raise":
             if best_move[1] == "allin":
@@ -135,7 +148,7 @@ class Agent(BasePokerPlayer):
             self.community_cards = []
         try:
             explored_actions = self.helper.traverseAndReturnExploredActions(self.round_state_traversal, self.name,
-                                                                            hole_card, self.cardHist)
+                                                                            hole_card, self.cardHist, self.version)
             if round_state["street"] == "preflop":
                 explored_actions = explored_actions["p1"]
             else:
@@ -143,6 +156,9 @@ class Agent(BasePokerPlayer):
                 explored_actions = explored_actions["p1"][key]
         except:
             explored_actions = {}
+            # with open("test.txt", "a") as f:
+            #     f.write("No actions played yet: " + self.name + str(hole_card) + str(self.cardHist) + "\n")
+            # print("No actions played yet", self.name, hole_card, self.cardHist)
         explored_actions_tuple = []
         if explored_actions and len(explored_actions) > 0:
             # print(explored_actions)
@@ -178,9 +194,10 @@ class Agent(BasePokerPlayer):
                 # add the condition to avoid call when no stack enough for it
                 elif each[0][0] == "call" and each[0][1] > stack_val:
                     del explored_actions_tuple[each]
+                    break
         # best_move = random.choice(list(filter(lambda x: x[1][0] == 0, actionTuple.items())))[0]
         # print(actionTuple)
-        best_move = self.action_picker(actionTuple, c=10000)
+        best_move = self.action_picker(actionTuple, c=1000000, replacement = math.inf)
 
         if best_move[0].upper() == "FOLD":
             moveId = "FOLD-" + str(best_move[1])
@@ -226,12 +243,12 @@ class Agent(BasePokerPlayer):
         self.file_path = ""
         self.final_move = ""
 
-    def action_picker(self, actionTuple, c):
+    def action_picker(self, actionTuple, c, replacement):
         # print(actionTuple)
         rewards = np.array([x[1][1] for x in actionTuple.items()])
         total_explorations = sum([x[1][0] for x in actionTuple.items()])
         exploration_value = np.array(
-            [c * ((math.log(total_explorations) / x[1][0]) ** 0.5) if x[1][0] > 0 else math.inf for x in
+            [c * ((math.log(total_explorations) / x[1][0]) ** 0.5) if x[1][0] > 0 else replacement for x in
              actionTuple.items()])
 
         # print(rewards, exploration_value)
@@ -241,7 +258,7 @@ class Agent(BasePokerPlayer):
         return list(actionTuple.keys())[selected_index]
 
     def receive_game_start_message(self, game_info):
-        pass
+        self.num_players = game_info['player_num']
 
     def receive_round_start_message(self, round_count, hole_card, seats):
         pass
@@ -254,3 +271,60 @@ class Agent(BasePokerPlayer):
 
     def receive_round_result_message(self, winners, hand_info, round_state):
         pass
+
+    def montecarlo_simulation(self, nb_player, hole_card, community_card):
+        # Do a Monte Carlo simulation given the current state of the game by evaluating the hands
+        community_card = _fill_community_card(community_card, used_card=hole_card + community_card)
+        unused_cards = _pick_unused_card((nb_player - 1) * 2, hole_card + community_card)
+        opponents_hole = [unused_cards[2 * i:2 * i + 2] for i in range(nb_player - 1)]
+        opponents_score = [HandEvaluator.eval_hand(hole, community_card) for hole in opponents_hole]
+        my_score = HandEvaluator.eval_hand(hole_card, community_card)
+        return 1 if my_score >= max(opponents_score) else 0
+
+    def estimate_win_rate(self, nb_simulation, nb_player, hole_card, community_card=None):
+        if not community_card: community_card = []
+
+        # Make lists of Card objects out of the list of cards
+        community_card = gen_cards(community_card)
+        hole_card = gen_cards(hole_card)
+
+        # Estimate the win count by doing a Monte Carlo simulation
+        win_count = sum([self.montecarlo_simulation(nb_player, hole_card, community_card) for _ in range(nb_simulation)])
+        return 1.0 * win_count / nb_simulation
+
+    def mcts_search(self, hole_card, round_state, valid_actions):
+        win_rate = self.estimate_win_rate(1000, self.num_players, hole_card, round_state['community_card'])
+
+        # Check whether it is possible to call
+        can_call = len([item for item in valid_actions if item['action'] == 'call']) > 0
+        if can_call:
+            # If so, compute the amount that needs to be called
+            call_amount = [item for item in valid_actions if item['action'] == 'call'][0]['amount']
+        else:
+            call_amount = 0
+
+        amount = None
+
+        # If the win rate is large enough, then raise
+        if win_rate > 0.5:
+            raise_amount_options = [item for item in valid_actions if item['action'] == 'raise'][0]['amount']
+            if win_rate > 0.85:
+                # If it is extremely likely to win, then raise as much as possible
+                action = 'raise'
+                amount = raise_amount_options['max']
+            elif win_rate > 0.75:
+                # If it is likely to win, then raise by the minimum amount possible
+                action = 'raise'
+                amount = raise_amount_options['min']
+            else:
+                # If there is a chance to win, then call
+                action = 'call'
+        else:
+            action = 'call' if can_call and call_amount == 0 else 'fold'
+
+        # Set the amount
+        if amount is None:
+            items = [item for item in valid_actions if item['action'] == action]
+            amount = items[0]['amount']
+
+        return action, amount

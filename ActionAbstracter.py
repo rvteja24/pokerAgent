@@ -37,6 +37,9 @@ class ActionAbstracter:
         if raise_value >= stack_value:
             all_in = raise_value/pot
             pot_splits.append(all_in)
+        else:
+            all_in = stack_value/pot
+            pot_splits.append(all_in)
         #print(pot_splits, pot, raise_value, stack_value)
         if prop in pot_splits:
             return "allin" if prop == pot_splits[-1] else prop
